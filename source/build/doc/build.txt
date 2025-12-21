@@ -6,9 +6,9 @@ BUILD engine Notes (8/14/95):
 
 BUILD programmed by Ken Silverman
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                               GAME KEYS:                                  ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                               GAME KEYS:                                  â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
        ESC = Quit
      Mouse = Movement
     Arrows = Movement
@@ -29,9 +29,9 @@ Left-Shift = Run
              name CAPTUR00.BMP and incrementing by 1 each time F12 is
              pressed.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                         BUILD EDITOR INTRODUCTION:                        ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                         BUILD EDITOR INTRODUCTION:                        â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 
 There are 2 modes in the BUILD editor:
    3D EDIT MODE (Same as PLAY MODE but with a mouse cursor)
@@ -58,9 +58,9 @@ It is essential that you use both editor modes:
 
   To switch between the two EDIT MODES, press the keypad enter key.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                          3D EDIT MODE KEYS:                               ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                          3D EDIT MODE KEYS:                               â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
          ESC = Quit
 keypad ENTER = Flip to the 2D overhead editor
 
@@ -216,9 +216,9 @@ SPRITE FLAGS:
            T = Press to make a sprite 50/50 transluscent.  Press T again
                to put sprite back to normal mode.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                          2D EDIT MODE KEYS:                               ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                          2D EDIT MODE KEYS:                               â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
                ESC = Show a menu that says, "(N)ew, (L)oad, (S)ave, (Q)uit"
                      Press ESC again to cancel the menu.
       keypad ENTER = Flip back to the 3D edit mode
@@ -356,22 +356,22 @@ Right mouse button = Moves the player's positions to the mouse cursor.
                      if the grid is turned off.  Also, grid locking will
                      lock to nearby points.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                              EDITART KEYS:                                ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                              EDITART KEYS:                                â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 
    ---- Keys you will need to know if you want to select from a section of
    a 320*200*256 picture file (.BMP and .PCX only) and put it into the BUILD
    engine.
 
    U - Use this to import a section of a 320*200*256 .BMP, .PCX, or .GIF.
-     ³  Enter - Convert the image that is inside the rectangular selection
-     ³          rectangle to the BUILD palette.
-     ³  Space - Convert the image that is inside the rectangular selection
-     ³          rectangle without remapping the palette.
-     ³  P - If in the picture selecting screen (after pressing U and loading
-     ³      the picture), you press P, then the palette of BUILD can be
-     ÀÄÄ    replaced by the palette of the displayed picture.
+     â”ƒ  Enter - Convert the image that is inside the rectangular selection
+     â”ƒ          rectangle to the BUILD palette.
+     â”ƒ  Space - Convert the image that is inside the rectangular selection
+     â”ƒ          rectangle without remapping the palette.
+     â”ƒ  P - If in the picture selecting screen (after pressing U and loading
+     â”ƒ      the picture), you press P, then the palette of BUILD can be
+     â”—â”â”    replaced by the palette of the displayed picture.
    PGUP/PGDN - Select tile to edit (4096 tile maximum right now).
    G - GOTO a tile by typing in the tile number.
    S - Re-size tile.  The X and Y sizes can be any unsigned short integer.
@@ -397,12 +397,12 @@ Right mouse button = Moves the player's positions to the mouse cursor.
    O - Optimize the size of an individual piece of artwork.  Use this for
        tiles with invisible pixels on the sides.
    V - View and select a tile to edit.
-     ³   Space - To swap 2 tiles simply press space bar on the first tile,
-     ³           then space bar on the second.
-     ³   1,2,3 - To swap a group of tiles, press 1 on the first tile,
-     ³             press 2 to remember the region between where you pressed
-     ³             1 and 2.  Press 3 at the place to where you want to swap
-     ÀÄÄ           all the tiles.
+     â”ƒ   Space - To swap 2 tiles simply press space bar on the first tile,
+     â”ƒ           then space bar on the second.
+     â”ƒ   1,2,3 - To swap a group of tiles, press 1 on the first tile,
+     â”ƒ             press 2 to remember the region between where you pressed
+     â”ƒ             1 and 2.  Press 3 at the place to where you want to swap
+     â”—â”â”           all the tiles.
 ALT+U- Re-grab artwork from original pictures according to the CAPFIL.TXT
        file.  If you press ALT-U in the main screen, everything will be
        re-grabbed.  If you press ALT-U in 'V' mode, then you should first
@@ -456,20 +456,20 @@ F12 - Screen capture (saves image as a *.BMP file, starting as file
       \ - Move the cursor to the center or the tile.
       | - Get the coordinates of the cursor.
 
-ÉÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍ»
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÈÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍ¼
+â”â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â”“
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”—â–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â”›
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                        IMPORTANT ENGINE FUNCTIONS:                        ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                        IMPORTANT ENGINE FUNCTIONS:                        â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 
 initengine(char vidoption, long xdim, long ydim)
    Sets up interrupt vectors for keyboard, and initializes many variables
@@ -590,9 +590,9 @@ kenchaintimer(void (__interrupt __far *datimerchainaddress)(),
          uninitengine();
       }
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                           OTHER ENGINE FUNCTIONS:                         ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                           OTHER ENGINE FUNCTIONS:                         â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 
 overwritesprite (long thex, long they, short tilenum,
                    signed char shade, char orientation, char dapalnum)
@@ -731,7 +731,7 @@ rotatepoint(long xpivot, long ypivot, long x, long y,
 
        Input:   1. Pivot point     (xpivot,ypivot)
                 2. Original point  (x,y)
-                3. Angle to rotate (0 = nothing, 512 = 90ø CW, etc.)
+                3. Angle to rotate (0 = nothing, 512 = 90Ã¸ CW, etc.)
        Output:  4. Rotated point   (*x2,*y2)
 
 clipmove(long *x, long *y, long *z, short *sectnum, long xvect, long yvect,
@@ -957,9 +957,9 @@ screencapture(char *filename)
    Capture the screen and save it as a .BMP file.  I don't know why my
    .BMP format isn't compatible with other programs.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                             SPRITE FUNCTIONS:                             ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                             SPRITE FUNCTIONS:                             â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 
 insertsprite(short sectnum, short statnum);   //returns (short)spritenum;
    Whenever you insert a sprite, you must pass it the sector
@@ -1010,9 +1010,9 @@ getspritescreencoord(short spritesortnum, long *scrx, long *scry)
    spritesortcnt arrays, NOT the normal sprite arrays.  Scrx and scry are
    actual screen coordinates ranging from 0-319 and 0-199 respectively.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                       MULTIPLAYER FUNCTIONS (multi.obj)                   ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                       MULTIPLAYER FUNCTIONS (multi.obj)                   â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 
    initmultiplayers(char option[4], char option[5], char priority);
          Call this right after initengine.  Pass option[4] and option[5]
@@ -1060,9 +1060,9 @@ getspritescreencoord(short spritesortnum, long *scrx, long *scry)
       tells you what computer the message was received from -
       (otherconnectindex).
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                       DIGITIZED SOUND FUNCTIONS:                          ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                       DIGITIZED SOUND FUNCTIONS:                          â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 Note: If you want to write your own digitized sound driver, simply delete
    these functions from GAME.C.
 
@@ -1082,9 +1082,9 @@ uninitsb();
           Turns the speaker off, so sounds don't continue playing while
           your back in DOS.
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                            MUSIC FUNCTIONS:                               ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                            MUSIC FUNCTIONS:                               â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 Note: If you want to write your own music driver, simply delete these
    functions from GAME.C.  The BUILD engine uses interrupt vector 0x8 (IRQ0)
    and that may complicate things.  If you like my music, perhaps I can send
@@ -1103,35 +1103,35 @@ musicoff();
           Disable the playing of music.  Be sure to call this before quitting
           to DOS.
 
-ÉÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍËÍ»
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÌÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍÎÍ¹
-ÈÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍÊÍ¼
+â”â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â–†â–‘â”“
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”£â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â–’â–‘â”«
+â”—â–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â–ƒâ–‘â”›
 
-ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-³                       BUILD Revision History:                             ³
-ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+â”ƒ                       BUILD Revision History:                             â”ƒ
+â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
 2/6/94   - Added this revision thing.
          - Setup program.
          - A faster new mode for standard VGAs called chain mode.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/8/94   - Fixed chain mode with groudraws.
          - Added sector joining in 2D EDIT MODE - press J on first sector.
               Then press J again on sector to join with.  Attributes will be
               taken from first sector.  Possible bugs.
          - Improved controls for slower computers.
          - Made timer interrupt rate 120/second instead of 240/second.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/9/94   - Started to work on status bar in 2D EDIT MODE.
          - Added special optimization for the Western Digitial (Paradise)
               chipset just like with TSENG ET4000.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/10/94  - Added a door attribute to sectors.  To make a sector a door,
               press "D" on the ceiling of the sector in 3D EDIT MODE.  For
               the door to work, the ceiling of the door sector must be a
@@ -1147,7 +1147,7 @@ musicoff();
               sometimes need walls to start from the bottom.  To do this,
               press "O" (for orientation) on the wall, and it will now
               start from the bottom.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/12/94  - Fixed some bugs for sprites.  Sprites don't disappear anymore.
               Now you will pick up all sprites when running over them.
               Monsters will not stop shooting anymore.
@@ -1176,7 +1176,7 @@ musicoff();
          - Board maps now have extension .MAP and artwork files now have
               extension .ART to help distinguish between the different types
               of files.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/22/94  - Fixed small bug with EDITART not loading right when names.h
               existed with no names defined.
          - You can now edit new boards by typing:
@@ -1220,7 +1220,7 @@ musicoff();
           Invisiblecol tells printext what color to draw the transparent
           pixels.  If invisiblecol is 255 then the transpararent pixels are
           still transparent.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/26/94  - Completely reprogrammed EDITART.
      IMPORTANT: PLEASE RUN CONVART.EXE ON ALL ARTWORK FILES! (If you have not
               already).  It will convert PICS.ART in the old format to
@@ -1230,7 +1230,7 @@ musicoff();
               With the new artwork file, the tiles can now be any size from
               1*1 to 1024*240 and they no longer have to be powers of 2.
               This feature allows parallaxing skies that are 1024 pixels wide
-              to cover all 360ø, or 320 pixel wide status bars.  It can also
+              to cover all 360Ã¸, or 320 pixel wide status bars.  It can also
               be used to display 320*200 title screens.
          - When pressing 'U' in EDITART, you can now change directories
               and the current loading directory will be remembered.
@@ -1258,7 +1258,7 @@ musicoff();
               play around with.
          - Made walls, ceilings, and floors also work with the animation
               attribute in EDITART.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/2/94   - Made power of 2 size tiles work with ceilings & floors.
          - When using different size ceilings & floors, made an option in
               3D EDIT MODE.  If you want a tile to be smooshed into the normal
@@ -1330,7 +1330,7 @@ spriteisdeletedskip:
                  you only.  (like permanently unreserved bits)
          - Added serial link.  But it doesn't work very well yet.  You
               may have to try going into GAME several times before it works.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/15/94  - Fixed maskable walls - now sort out with sprite better.  Easier
            to edit.  Simply press 'M' at a place where a maskable wall
            should be (like where you normally press 'B' for blocking)
@@ -1339,7 +1339,7 @@ spriteisdeletedskip:
            sprite rotations, by flipping it x-wise by programming one of
            the bits in sprite[].cstat.
          - A few other minor things, but I forgot what they were.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/19/94  - Fixed one of the many crashing bugs.
               For Duke Nukem III team:
                  CITY.MAP will not crash anymore with new version.  The
@@ -1362,7 +1362,7 @@ spriteisdeletedskip:
          - Ctrl-Enter in 3D EDIT MODE is like the normal Enter paste key,
                 but Ctrl-Enter pastes the attributes to an entire loop of
                 walls (if a wall is highlighted).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/22/94  - Added doors that open left and right.  See sector[].tag #9 in the top
                 of this file for details - also look at my board, NUKELAND.MAP,
                 in BUILD to see how to make this type of door.
@@ -1376,7 +1376,7 @@ spriteisdeletedskip:
                 of putting all different types of monsters on the active
                 list, it is faster to have a separate list just for brown
                 monsters.  Use your imagination!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/31/94  - Fixed some palette problems with EDITART.  Now when you press 'P'
                 in 'U' mode, the palette of all the existing tiles are
                 converted to the new palette.  Also the text colors should
@@ -1438,7 +1438,7 @@ spriteisdeletedskip:
                current board.  Note that the local tile list will be
                different depending where the mouse cursor was left when you
                pressed V (or H).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/4/94   - Changed the way ART files work.  YOU MUST READ THIS:
                There are some two easy things that you must do 2 things before
                you can use the new engine:
@@ -1458,7 +1458,7 @@ spriteisdeletedskip:
                   artwork, and the engine will automatically know how to
                   modify the 3 digits at the end and load all the artwork
                   files properly.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/5/94   - Fixed the "fuzzy" pixels on high walls.  Now you make walls as
                   high as skyscrapers, and when you look at it up close, the
                   pixels will still look like perfect rectangles.  Note: This
@@ -1506,7 +1506,7 @@ spriteisdeletedskip:
                      To the sprite structure, I added only 1 variable.
                   The "extra" pointer is intended for your use only, so you
                   can have the sprite's structure extended if you so desire.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/6/94   - In 2D EDIT MODE, you can now press ESC to get a message in the
                   message bar that says this:
 
@@ -1520,7 +1520,7 @@ spriteisdeletedskip:
                   boards have the same orientation as in the older BUILD
                   editors.  If you don't care if the whole map gets rotated
                   in the 2D editor, then press N.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/7/94   - Changed the way Orientation works ('O' in 3D EDIT MODE)
 
               Now, when you draw a normal door in BUILD, you do NOT have to
@@ -1565,7 +1565,7 @@ spriteisdeletedskip:
                   a monster can see you or not. Try playing DOOM1.DAT with
                   digitized sound enabled to fully enjoy this great new
                   function!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/12/94   - Fixed HITSCAN function.  Since it works a little differently
                and the parameters are different, let me describe how the
                new hitscan works:
@@ -1616,7 +1616,7 @@ spriteisdeletedskip:
 
           - Added a position window to the bottom of the menu in 2D EDIT
               MODE.  It shows the posx, posy, and ang variables.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/14/94   - Overwritesprite now clips to the startumost / startdmost arrays.
             Now the only way to write to the status bar is with
             the permanentwritesprite function.
@@ -1640,7 +1640,7 @@ spriteisdeletedskip:
             the ceiling and floor of the sector were very far from each
             other.  This overflowed some really high positive values into
             the negative range and vice versa.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/18/94   - Wall clipping now works much better! (You can still VERY RARELY
                                               sneak through walls, however)
             ATTENTION PROGRAMMERS:
@@ -1696,13 +1696,13 @@ spriteisdeletedskip:
               will be displayed as 2 unsigned shorts.  The first number
               represents the hi 16 bits and the second number represents the
               lo 16 bits.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/23/94   - Added 'G' in Editart to GOTO a tile by typing in the tile number.
           - Changed the way masking walls work a little bit.  Now the
               masking walls use the picture wall[].overpicnum rather than
               wall[].picnum.
           - Made hitscan hit maskable walls.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/24/94   - Made palette.dat support any number of shades up to 64.  There
                is no change to the palette.dat format.  The palette.dat
                format is:
@@ -1728,7 +1728,7 @@ spriteisdeletedskip:
           - New Key in 3D EDIT MODE, the forward slash. Use / with the
                tile panning keys (, and .) to flip the horizontal / vertical
                orientation bits for walls, ceilings or floors.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/28/94   - NEW BOARD VERSION!  You must run CONVMAP4.EXE on all your boards.
                Here's what I changed in the structures:
 
@@ -1788,7 +1788,7 @@ spriteisdeletedskip:
 
           - Also look at the top of this file for a description of dragpoint(), a
                great new function that makes it easy to morph sectors.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/29/94   - Added some minor keys to 3D EDIT MODE.  Alt. +/- change the
                visibility variable.  It ranges from 5 (darkest) to 17
                (lightest) and it starts at 13.
@@ -1827,14 +1827,14 @@ spriteisdeletedskip:
          - Made Tab & Enter a little smarter in copying the right attributes
               to different types of objects.
 
-         - Added ceiling / floor 90ø rotation attributes.  All 8
+         - Added ceiling / floor 90Ã¸ rotation attributes.  All 8
               rotations are possible. 3 bits have been added to both
               the sector[].ceilingstat and sector[].floorstat flags.
               If you look in BUILD.H, you will see the new flags
               descriptions.  You can use the 'F' key in 3D EDIT MODE on
               a ceiling or floor to change the rotation.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/30/94  - ATTENTION PROGRAMMERS:
               I removed the function, getsector, and added a more expandable
               function, updatesector.  Also, updatesector is smart enough
@@ -1874,7 +1874,7 @@ spriteisdeletedskip:
               by the deltang value.  The resultant point will be s
 
          - Fixed crashing bug in BUILD when a wall's tile doesn't exist.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/02/94  - I improved the pre-level check on the swinging doors, so now
              you can have multiple doors in a sector that open any way.
              This is how I do my double swinging doors (demonstrated in
@@ -1886,19 +1886,19 @@ spriteisdeletedskip:
 
          - Fixed bug with joining sectors in 2D EDIT MODE.  The sprites
              don't get deleted any more.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/04/94  - Optimized the masked walls.
 
          - Cleaned up the sprite drawing code (and many bugs that that came
              along with it.)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/05/94  - Made cylindrical walls with any number of points VERY easy to
               make in BUILD.  Here's how you do it:  Highlight a wall and
               press 'C' on it.  Then move the mouse to the proper position
               to make a nice circle.  You can press '+' or '-' to change
               the number of points on the circle.  Press 'C' again to cancel
               or press space bar to actually change the map.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/07/94  - Made a fully-operational subway!  Look at subway.map.
 
          - Made a new type of door - a sliding door where the door doesn't
@@ -1910,7 +1910,7 @@ spriteisdeletedskip:
               All the door code is now in this function (with a few
               exceptions, such as parts of the swinging doors and revolving
               door)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/08/94  - Made EDITART and BUILD support different tile sizes in 'V' mode.
               Here are the three possible sizes:
                  0. 64*64 - 5*3 grid - views 15 tiles (old default)
@@ -1931,12 +1931,12 @@ spriteisdeletedskip:
              2.  Sprite clipping = off for sprites shorter than 32 pixels.
 
          - Fixed sprite clipping with Z-coordinates
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/10/94  - Fixed some sprite dragging bugs
 
          - Made neartag? maximum sensing distance a global variable called
               neartagdist.  See build.h.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/11/94  - Added sector / groups of sectors selection.  When selecting
               sectors, hold down the right ALT key.  It works just like
               right shift.  You must completely surround any sector you
@@ -1949,7 +1949,7 @@ spriteisdeletedskip:
               This duplication is like stamping.  So, you must drag
               the sector bunch somewhere else after stamping to see your
               great accomplishments.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/12/94  - Added group-sector PGUP / PGDN.  Here's a neat trick that will
               let you move a whole section of a board up / down quickly.
               First you select a bunch of sectors with the right ALT key in
@@ -1982,11 +1982,11 @@ spriteisdeletedskip:
 
          - Fixed my .PCX format bug.  My screen captures now load properly
              in Deluxe programs.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/13/94  - Made my serial code in Game.c work better.  I fixed the bullet
              shooting and made all types of doors work.  Unfortunately, you
              still may have to run at slower COM speeds.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/14/94  - Fixed deadly bug with sector copy & sprites.
 
          - Added hitscan sensitivity bit.  It is bit 6 (64) of wall[].cstat.
@@ -1996,7 +1996,7 @@ spriteisdeletedskip:
              using it anyway)  By default, hitscan CAN go through maskable
              walls.  If a hitscan is set to not go through a maskable wall,
              The wall will appear BRIGHT pink in 2D edit mode.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/15/94  - Made more subroutines in game.c and moved documentation from the
              end of game.c into this text file.   Added some more comments
              also.  Game.c is so much easier to read now!  The main loop is
@@ -2017,7 +2017,7 @@ spriteisdeletedskip:
                 GAME.C into the middle BUILD.TXT)
              Finally, you can have sprites and bullets going where you
                 want them to go!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/18/94  - Added support for the Spaceplayer (6-degree of freedom Space ball)
               Try out the SETUP program now.
 
@@ -2050,7 +2050,7 @@ spriteisdeletedskip:
                 then you should defined them as globals in your own code.
              3. You should go through every single key of my gameinput()
                 function in game.c and copy any code you want.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/23/94  - GREAT NEW STUFF!
 
             Be sure to check out GAME.EXE and try out these new keys!
@@ -2101,7 +2101,7 @@ spriteisdeletedskip:
               the other side.  In 3D EDIT MODE, press P on ceiling for
               parallaxing sky, or press P on floor for parallaxing floor.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/24/94  - There is a new function that I forgot to document in the last
               version.  Oops!
 
@@ -2110,7 +2110,7 @@ spriteisdeletedskip:
            drawrooms/drawmasks functions.  This function animates anything
            that you use setanimation with.  Please stick it in your code
            somewhere after you draw the screen.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/26/94  - You can now do TRANSLUSCENT sprites!  I am using bit 1 of
               sprite[].cstat to detemine whether or not the sprite is
               transluscent or not.  In 3D EDIT MODE, you can press 'T' to
@@ -2130,7 +2130,7 @@ spriteisdeletedskip:
              them and see for yourself which palettes work the best with
              transluscence!
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/29/94  - ATTENTION PROGRAMMERS:  I completely rewrote the neartag code.
              Here's what you have to do to convert your game.c files:
 
@@ -2158,7 +2158,7 @@ spriteisdeletedskip:
                     long *neartaghitdist,   //Returns actual distance to object (scale: 1024=largest grid size)
                     long neartagrange)      //Choose maximum distance to scan (scale: 1024=largest grid size)
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/31/94  - Added a function to get a sprite's screen coordinates.  I put
               some sample code in my GAME in the analyzesprites function.
               Simply hold down the CAPS LOCK key in my GAME.EXE, and the
@@ -2172,7 +2172,7 @@ spriteisdeletedskip:
               Note that spritesortnum is the index into the spritesortcnt
           arrays, NOT the normal sprite arrays.  Scrx and scry are actual
           screen coordinates ranging from 0-319 and 0-199 respectively.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/6/94   - Made EDITART support sprite centering and animation speed.
 
               Now when you press 'A' in EDITART, the animation speed is
@@ -2190,7 +2190,7 @@ spriteisdeletedskip:
 
          - Added a variable to BUILD.H, lockclock.  Lockclock is to
               totalclock as lockspeed is to clockspeed.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/7/94   - Made 3 different Z coordinate modes in BUILD.
 
             Mode 0:  Game mode (default)
@@ -2199,7 +2199,7 @@ spriteisdeletedskip:
 
            Press Caps Lock to switch between the 3 modes.
            A and Z move up and down for all 3 modes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/10/94  - Added a new function that should solve all your sound problems.
 
            kenchaintimer(void (__interrupt __far *datimerchainaddress)(),
@@ -2207,7 +2207,7 @@ spriteisdeletedskip:
 
            Please look at the IMPORTANT ENGINE FUNCTIONS section above for
               a full description.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/20/94  - Got rid of the comsend / comgetchar functions.  Replaced them
               with sendpacket and getpacket.
 
@@ -2246,7 +2246,7 @@ spriteisdeletedskip:
               long posx, posy, posz, horiz;
               short ang, cursectnum;
               long hvel;
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/22/94  - ATTENTION PROGRAMMERS:  Added 1 parameter to movesprite, the
               number of tics (such as lockspeed).
 
@@ -2284,7 +2284,7 @@ spriteisdeletedskip:
               a pseudo-random number as a long from 0 to 65535.  Notice that
            I put a randomseed variable in BUILD.H called randomseed.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/24/94  - I just want to try to explain how all of my multiplayer code
               works.  Theory:  Think of the whole program as 2 functions:
 
@@ -2432,11 +2432,11 @@ spriteisdeletedskip:
             tomorrow, this should be the most difficult update in a long
             time!  Good Luck in programming!  I'm sure I left a lot of
             things out, so I'll be expecting plenty of phone calls!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/27/94  - I scaled the vel, svel and angvel variabile down 1 bit so they
            fit into a signed char.  (Before they ranged from -256 to 256)
            Now they range from (-128 to 127).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/28/94  - Optimized the size of my COM(modem)/network packets in game.c.
            I made the tics into a char.  I also use some new buffers called
            osyncvel, osyncsvel, osyncangvel, and osyncbits.  Now I send
@@ -2476,13 +2476,13 @@ spriteisdeletedskip:
               3.  Modem - out of sync after 3 minutes - try it!
               4.  Network - out of sync after 1 minute.  Networks love to
                      lose full packets here and there. (not changed)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/29/94  - Added some code to my GAME.C that will let you type in messages
               and send them to all remote players.  Press Tab (or T for
               those people who play that other, very bad, game too much)
               to start typing in a message.  Press either Enter key to send
               the message to the other player.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/30/94  - ATTENTION PROGRAMMERS:  I changed the values that clipmove and
               movesprite return!  Here's how they work now:
                  If you did not hit anything, then they return 0.
@@ -2496,15 +2496,15 @@ spriteisdeletedskip:
               Be careful when adding these changes to your code since the
                  return value are sort of reversed:
 
-           return values: º Hit nothing: ³ Hit something:
-           ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÎÍÍÍÍÍÍÍÍÍÍÍÍÍÍØÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
-           Old functions: º      1       ³       0
-           ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ×ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-
-                          º              ³    16384+sectnum (Movesprite only)
-           New functions: º      0       ³ or 32768+wallnum
-                          º              ³ or 49152+spritenum
+           return values: Âº Hit nothing: â”ƒ Hit something:
+           â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–’â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘Ã˜â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘
+           Old functions: Âº      1       â”ƒ       0
+           â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”Ã—â”â”â”â”â”â”â”â”â”â”â”â”â”â”Ã…â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”-
+                          Âº              â”ƒ    16384+sectnum (Movesprite only)
+           New functions: Âº      0       â”ƒ or 32768+wallnum
+                          Âº              â”ƒ or 49152+spritenum
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/1/94   - Made getangle always return an angle from 0 to 2047.  Before I
               forgot to and it 2047 and sometimes the angle was negative.
 
@@ -2513,7 +2513,7 @@ spriteisdeletedskip:
 
          - Made Ctrl+Rt.Shift highlight points on a loop rather than points
               inside a rectangle.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/2/94   - Added some neat features to my GAME.C to make multi-player mode
               even more fun.  I added a portable bowling ball/bomb-thrower.
               kills instantly! (similar to rocket launcher)  I also added
@@ -2551,13 +2551,13 @@ spriteisdeletedskip:
                         computers will automatically quit to DOS and go right
                         into the GAME.
                  6.  Play!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/5/94   - Serial moder over COM(modem) should work perfectly now.
 
          - Added scaredfallz to BUILD.H.  It is a global variable that
              tells monsters what height is too high to fall through.  You
              can set cliptype parameter to 2 for movesprite and clipmove.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/6/94   - Fixed clipping bug that used to let you go through certain concave
              corners.
 
@@ -2582,7 +2582,7 @@ spriteisdeletedskip:
 
          - Fixed bug with weird vertical lines in transluscent masked walls
               in chain mode.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/10/94  - Made screen capture (F12) work in 2D modes also.  It always
               saves to a 256 color PCX file.
 
@@ -2609,7 +2609,7 @@ spriteisdeletedskip:
                       Keep in mind that startumost[0] and startdmost[0] are
                       always refer to the left edge of the viewing window.
                       (NOT left edge of screen.)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/19/94  - Finally got around to writing the number-of-tiles-per-file
               resizer.  Simply type rsizeart.  All instructions will be
               displayed when running the program before the actual
@@ -2641,7 +2641,7 @@ spriteisdeletedskip:
               looking for a good solution so as to not make you change
               any code.  I will put another upload with these bugs fixed
               soon.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/20/94  - Added TRUE ornamented walls.  Right now the actual ornamentation
               must be programmed by you with 2 simple functions:
 
@@ -2676,7 +2676,7 @@ spriteisdeletedskip:
          - Tile panning matching keys work a lot better.  They now work
               well with bottom steps.  Also, it works well with matching
               up windows.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/25/94  - A week ago, I uploaded a version of BUILD which unfortunately
               had more bugs than the previous version.  This upload should
               have those bugs fixed - especially the sprite bugs. (I hope)
@@ -2694,10 +2694,10 @@ spriteisdeletedskip:
 
          - Fixed some weird drawing bug related to parallaxing skies and
               sprites.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/26/94  - Made sprite's sectors dependent on the z coordinates in the BUILD
               editor.  (Helpful if you use overlapping in your maps)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/29/94  - Made precache function.  Simply call:
                precache()        (no parameters)
               right after you call loadboard(?,?,...) and it will load
@@ -2712,10 +2712,10 @@ spriteisdeletedskip:
               were in when you were in 'U' mode).  You may want to search
               your artwork directories to see if you were a victim of this
               bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/30/94  - Made Ctrl-Enter paste parallaxing sky tiles to all neighboring
               parallaxing sky areas also.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/31/94  - Fixed (most) crashing bugs - Doesn't even crash on the highest
               skyscrapers now!  Since I can never be SURE that the crashing
               is gone, I need you to test it for me - compare the number
@@ -2725,7 +2725,7 @@ spriteisdeletedskip:
          - Fixed sector line bug!  Get close to a step, hold down Shift+Z
               and the edges of the step will NOT jitter like before AND you
               will not get random walls going through the screen.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/1/94   - Got rid of the OLD transluscent stuff from overwritesprite and
               permanentwritesprite.  (Before it used the 8K shading table
               which didn't work very well)
@@ -2761,7 +2761,7 @@ spriteisdeletedskip:
               size of 64.  If you hold down shift with / on a sprite, it
               will give the sprite a square aspect ratio by setting the
               xrepeat to equal the yrepeat value.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/2/94   - Doubled the board size from: (0 to 65536, 0 to 65536) to
               (-65536 to 65536, -65536 to 65536)  Notice that the grid in
               2D EDIT MODE is much bigger than before.  Since it is very easy
@@ -2775,7 +2775,7 @@ spriteisdeletedskip:
               when quitting.  It had something to do with the vertical grid
               lines in 2D EDIT MODE when zoomed way in around the upper left
               corner of the map (I think).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/3/94   - Optimized Editart loading and saving.
 
          - Made 'V' screen in Editart 320*400 instead of 320*200.
@@ -2783,11 +2783,11 @@ spriteisdeletedskip:
          - Before I said I fixed the bug in EDITART where a few pixels in the
              top left corners of tiles sometimes got overwritten.  Well I
              lied.  This time I really fixed it.  (I hope)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/7/94   - Made x&y repeats, x&y pannings easier to adjust.  It now works
              like the default keyboard handler.  It moves once when you
              first press the key.  A little later, it starts to move fast.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/11/94  - Added great new sprite rotation function which works like
               overwritesprite (like 2DRAW sprites)
 
@@ -2850,17 +2850,17 @@ spriteisdeletedskip:
 
          - Moved some com/network code from the getpackets function in game
               into the engine.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/15/94  - Fixed some network initialization code and it now works with 4
               players.  (I tested it.)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/16/94  - Added different shirt color support.  Here's how you do it:
 
             allocatespritepalookup(long palnum, char *remapbuf)
 
             See more documentation of allocatespritepalookup at the top of
                this file.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/18/94  - I made it so you can redefine the keys in the setup program under
               the input devices menu.
 
@@ -2869,7 +2869,7 @@ spriteisdeletedskip:
               key code will not work if you don't do this!  If you are
               one of those people who actually read BUILD.TXT, give yourself
               1 point.  I wonder who will get "caught" for not reading this!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/22/94  - Added pixel height and wall length information to 2D EDIT MODE
               when you press Tab or Alt-Tab on a sector or wall.
 
@@ -2900,7 +2900,7 @@ spriteisdeletedskip:
            This means that from now on, if I want to add something to
            TABLES.DAT, you won't have to go into the setup program and reset
            the options again.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/24/94  - Relative alignment now fully works with ROTATION!  Relative
               alignment will allow ceilings and floors to align with the
               first 2 points of a sector.  This will relieve you of
@@ -2913,21 +2913,21 @@ spriteisdeletedskip:
            I have an example of relative alignment in nukeland.map in the
               high blue room off the main octagonal room.  Also note that my
               subways and dragsectors now use relative alignment for panning.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/25/94  - I added a new parameter to printext256 and printext16.  I need
               to document this stuff!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/27/94  - Made it so you can't shrink sprites so much you can't grab them
               any more in 3D EDIT MODE.
 
          - Added (G)oto feature into Build 'V' mode.  Simply press G, type
               the tile number and it will go there.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/7/94   - Fixed relative alignment bugs I noticed.  My subway.map won't
               crash anymore and the relatively aligned ceilings and floors
               should not pan crazily anymore when looking from a far
               distance.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/9/94   - ATTENTION PROGRAMMERS:  I added a new parameter to
               overwritesprite.  Dapalnum can be from 0-15 depending on
               what palette lookup table is being used.  Dapalnum is normally
@@ -2935,13 +2935,13 @@ spriteisdeletedskip:
 
               overwritesprite (long thex, long they, short tilenum,
                    signed char shade, char orientation, char dapalnum)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/13/94   - ATTENTION PROGRAMMERS:  I changed the last parameter of drawrooms
               (sector number) to be passed as a value, NOT a pointer anymore.
 
               drawrooms(long daposx, long daposy, long daposz,
                        short daang, long dahoriz, short dacursectnum)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/15/94   - ATTENTION PROGRAMMERS:  I took out the COM(modem)/network code
               from my engine.obj and put it into a separate .obj called
               multi.obj.  (I also removed the sound from my engine and stuck
@@ -2974,7 +2974,7 @@ spriteisdeletedskip:
                perfectly with 3 players on a network that used to crash at
                the DOS4GW prompt just a week ago!  My game needs only IPX,
                no server to run.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/16/94   - ATTENTION PROGRAMMERS:  CONVMAP5!!!  YOU MUST RUN CONVMAP5 ON
                ALL OF YOUR MAPS IF YOU WANT THEM TO WORK WITH THE NEW
                BUILD.EXE OR OBJ'S!  Following are the exact changes I made
@@ -3019,7 +3019,7 @@ spriteisdeletedskip:
           - Renamed my allocatespritepalookup function to makepalookup since
                it now also applies to walls, ceilings, floors, p-skies and
                masked walls.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/20/94   - Added rotated sprites.  These new rotated sprites rotate in the
                same way as masked walls.  Sounds like a waste since the
                engine already has masked walls?  NOT AT ALL!  With rotated
@@ -3043,7 +3043,7 @@ spriteisdeletedskip:
                         another map and the highlighted sectors will
                         automatically be inserted into the new map.  (They
                         will still be highlighted)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/21/94   - Fixed bug with cursectnum not always being right after loading
                the board.  I now check it and make sure it's right when
                saving in BUILD now.
@@ -3057,12 +3057,12 @@ spriteisdeletedskip:
                'S' on a ceiling or floor.
 
           - You can now press delete to delete a sprite in 3D EDIT MODE.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/22/94   - Programmed Nick & Peter's BUILD stub to their EXACT
                specifications.  See WSTUB.C for code & documentation.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/27/94   - Fixed Rt. Alt block copying nextsector1 pointer bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/29/94   - Added special bitmapped effect which I either call lava or
                boiling slime.  See my initlava and movelava functions
                inside GAME.C.
@@ -3103,14 +3103,14 @@ spriteisdeletedskip:
              0 to 4.  Brightness defaults to 0.  Levels 1-4 are all brighter
              than 0.  If you switch between 2D & 3D modes, the engine will
              remember the current brightness level.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/30/94   - Added a few keys to fake a multiplayer game all on 1 computer.
                In my game, press Insert to add a new player at the starting
                position, and Delete to delete the last player.  Press
                scroll lock to get control of the other players.  In the same
                way Lt. Enter lets you view other players, Scroll lock will
                let you control other players (single player game only)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/2/94   - Moved all doanimations code from engine into game.c.  If you
                are using the doanimations code, here's exactly what you
                need to do to make it work with your code again:
@@ -3144,12 +3144,12 @@ spriteisdeletedskip:
           - Fixed bug with initialization of Master and Slave for
                COM(Modem) only.  If both computers went in at the same
                time, it used to sometimes think both were Masters.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/4/94   - Alt-C in 3D EDIT MODE changes all picnums on the whole map
                from the picnum in tab to the picnum under the mouse cursor.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/6/94   - Fixed y-flipping bug on walls and masked walls.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/16/94  - Fixed bug in editart that didn't convert the maps right after
                swapping tiles.
 
@@ -3174,7 +3174,7 @@ spriteisdeletedskip:
                sync.  Simply press 'M' in my multiplayer game, and that
                computer will become the master!  It is interesting how
                the frame rate and controllability changes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/31/94  - Added basic scripting to EDITART.  Don't expect it to be
                everything you ever dreamed of (yet).
 
@@ -3242,7 +3242,7 @@ spriteisdeletedskip:
                4 keys that let you adjust the 3D view:
                        [,] = Adjust width between eyes (3D width)
                  Shift [,] = Adjust width of parallax (2D width)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/1/94   - Guess what?  I turned 19 today.  Doesn't that just suck.  Now,
                if you play my build game on my birthday, all the extemely
                evil and scary brown monsters will be replaced with super
@@ -3288,7 +3288,7 @@ spriteisdeletedskip:
              etc.  Each palette lookup table has 32 shades.  Each shade has
              256 bytes.  Shade 0 is closest (actual palette brightness) and
              shade 31 is farthest (dark usually).  (256*32 = 8192 or 8K)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/3/94   - Now show white lines in 'V' mode of EDITART at ART file tile
                boundaries.
 
@@ -3310,7 +3310,7 @@ spriteisdeletedskip:
                hold a whole art file in memory at a time.  Since Build and
                Game only READ the art files, a caching system can be made
                and only 1 art file is necessary even for lo-memory systems.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/4/94   - ATTENTION MAP DESIGNERS!  Added a long-awaited feature to BUILD
                which I call "loop joining".  Have you ever gotten this
                frustrating message in 2D EDIT MODE before?
@@ -3325,11 +3325,11 @@ spriteisdeletedskip:
                on the right:
 
                                 Split #1         Split #2
-               ÚÄÄÄÄÄÄÄ¿        ÚÄÄÄÂÄÄÄ¿        ÚÄÄÄÂÄÄÄ¿
-               ³ ÚÄÄÄ¿ ³        ³ ÚÄÁÄ¿ ³        ³ ÚÄÁÄ¿ ³
-               ³ ³   ³ ³        ³ ³   ³ ³        ³ ³   ³ ³
-               ³ ÀÄÄÄÙ ³        ³ ÀÄÄÄÙ ³        ³ ÀÄÂÄÙ ³
-               ÀÄÄÄÄÄÄÄÙ        ÀÄÄÄÄÄÄÄÙ        ÀÄÄÄÁÄÄÄÙ
+               â”â”â”â”â”â”â”â”â”“        â”â”â”â”â”³â”â”â”â”“        â”â”â”â”â”³â”â”â”â”“
+               â”ƒ â”â”â”â”â”“ â”ƒ        â”ƒ â”â”â”»â”â”“ â”ƒ        â”ƒ â”â”â”»â”â”“ â”ƒ
+               â”ƒ â”ƒ   â”ƒ â”ƒ        â”ƒ â”ƒ   â”ƒ â”ƒ        â”ƒ â”ƒ   â”ƒ â”ƒ
+               â”ƒ â”—â”â”â”â”› â”ƒ        â”ƒ â”—â”â”â”â”› â”ƒ        â”ƒ â”—â”â”³â”â”› â”ƒ
+               â”—â”â”â”â”â”â”â”â”›        â”—â”â”â”â”â”â”â”â”›        â”—â”â”â”â”»â”â”â”â”›
                 (Given)        (Half done)        (Result)
                (1 sector)    (Still 1 sector)   (2 sectors)
 
@@ -3347,7 +3347,7 @@ spriteisdeletedskip:
                Anyone calling neartag for every player per movethings?
                I would try not to - How much is that unnoticable extra 0.02
                frames per second worth to you anyway?
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/9/94   - Added new array to BUILD.H called gotsector.  It works a lot
                like the gotpic array, but this array determines which sectors
                were considered during the drawrooms function.  Note that
@@ -3359,7 +3359,7 @@ spriteisdeletedskip:
 
           - Fixed Build split sector bug of accidently deleting sprites.  It
                should not delete any sprites when splitting sectors now.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/15/94  - ATTENTION PROGRAMMERS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                I moved ALL my timer code and arrow key code into GAME.C.
                Here are the exact instructions that you need to follow to
@@ -3407,7 +3407,7 @@ spriteisdeletedskip:
                    drawscreen's smoothratio parameter & related code - GONE!
                    kenchaintimer - GONE! (Don't think anybody was using it
                       because it didn't solve sound compatibility problems)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/16/94  - Made swinging door clipping work MUCH better!  It is much more
                difficult to "sneak" through the door now.  With the swinging
                door clipping working much better, I made it possible to open
@@ -3434,7 +3434,7 @@ spriteisdeletedskip:
                TABLES.DAT files!  My new gamma correction supports 16 levels
                of brightness (0-15).  You need not change any code in your
                game if you already have gamma correction programmed.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/17/94  - Made swinging door clipping code work even better.  The bug was:
                it only tested the clipping if you were in the same sector as
                the door.  So I put this handy little function in GAME.C which
@@ -3466,7 +3466,7 @@ spriteisdeletedskip:
 
                      break;
                   }
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/22/94  - Made build posx, posy, posz, ang, cursectnum, and horiz variables
                nonstatic.
 
@@ -3476,7 +3476,7 @@ spriteisdeletedskip:
                on red sector lines.  I think it should work with rotated
                sprites on horizontal or vertical red lines.  I'm not sure
                about weird angled lines.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/23/94  - ATTENTION PROGRAMMERS:  Made parallaxing skies tileable in any
                equal size chunk where the chunk x size is a power of 2
                from 16-1024.  You can now make a 2048 wide parallaxing sky
@@ -3524,9 +3524,9 @@ spriteisdeletedskip:
                With the new tiling, you can save memory by making small
                    chuck sizes, such as 64 or 128, and repeating certain
                    sections.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/25/94  - Fixed some really stupid keyboard problem in Build.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/29/94  - Added FLOOR SPRITES!!!  Here are some things that floor sprites
                can do for you:
 
@@ -3547,17 +3547,17 @@ spriteisdeletedskip:
              sprites combined with wall sprites!  I can't wait to see what
              you all come up with!
 
-           ÚÄÄ To clear some confusion, and to shorten conversations, let
-           ³      me give official names to my 3 kinds of sprites:
-           ³
-           ³        Normal stupid sprites             - "FACE SPRITES"
-           ³        Rotated / masked wall sprites     - "WALL SPRITES"
-           ³        New ceiling & floor sprites       - "FLOOR SPRITES"
-           ³
-           ³   Also let me clear up the 2 kinds of clipping:
-           ³
-           ³        Clipping when moving something    - "MOVEMENT CLIPPING"
-           ÀÄÄ      Clipping when drawing something   - "VIEW CLIPPING"
+           â”â”â” To clear some confusion, and to shorten conversations, let
+           â”ƒ      me give official names to my 3 kinds of sprites:
+           â”ƒ
+           â”ƒ        Normal stupid sprites             - "FACE SPRITES"
+           â”ƒ        Rotated / masked wall sprites     - "WALL SPRITES"
+           â”ƒ        New ceiling & floor sprites       - "FLOOR SPRITES"
+           â”ƒ
+           â”ƒ   Also let me clear up the 2 kinds of clipping:
+           â”ƒ
+           â”ƒ        Clipping when moving something    - "MOVEMENT CLIPPING"
+           â”—â”â”      Clipping when drawing something   - "VIEW CLIPPING"
 
             To make a floor sprite in BUILD, simply press 'R' on any
                sprite until it becomes a floor sprite.  The xrepeat and
@@ -3585,9 +3585,9 @@ spriteisdeletedskip:
                a bridge and a balcony on the level.  Please find them!
                Remember that floor sprites don't work in mode x or hi-res
                mode YET!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/30/94  - Made WALL SPRITE and FLOOR SPRITE correctly do movement clipping.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/1/94   - Made new map called BRIDGES.MAP.  It is excellent!  It has 3
                bridges all crossing each other.  Enjoy!
 
@@ -3595,13 +3595,13 @@ spriteisdeletedskip:
                centering while in centering mode.
 
           - Debugged more of the floor sprite stuff.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/2/94   - Made transluscence with floor sprites work.  Check out my fake
                radial shading under the lights of SUBWAY.MAP.
 
           - Optimized floor sprites in assembler.  Transluscent floor sprites
                are a bit slower than normal floor sprites.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/6/94   - Made a special 1-way mode for WALL and FLOOR sprites
                (not FACE sprites).  In BUILD 3D mode, you can press '1' on
                a wall or floor sprite to make it only draw if you are on
@@ -3610,12 +3610,12 @@ spriteisdeletedskip:
                but will also make fewer drawing bugs due to sprite drawing
                order.  Try out my BRIDGES.MAP.  There's a new section at the
                top and it's not another "ugly Ken's face n' slime" room.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/8/94   - Editart and Build now capture with capt#### rather than captur##
                allowing 10000 captured pictures.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/23/94  - Increased Maximum number of walls to 8192.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/28/94  - Made BUILD stub keys F5-F8 work in 3D mode also.  See top
                of BSTUB.C for full documentation of some new useful
                variables that can be used inside the stub:
@@ -3688,12 +3688,12 @@ spriteisdeletedskip:
                    (kjs@lems.brown.edu)  I will consider each suggestion
                    carefully, because everything you suggest now won't have
                    to be an ugly hack like spritepal[] later.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
-1/1/95    - ÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛÜ  ÛÛ ÛÛ   ÛÛ ÛÛ    ÛÛ ÛÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛ
-            ÛÛ    ÛÛ  ÛÛ ÛÛÛÜ ÛÛ ÛÛ   ÛÛ ÛÛÛÜÜÛÛÛ ÛÛ  ÛÛ ÛÛ  ÛÛ ÛÛ     ÛÛ
-            ÛÛ    ÛÛ  ÛÛ ÛÛÛÛÛÛÛ ÛÛÜ ÜÛÛ ÛÛßÛÛßÛÛ ÛÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛ
-            ÛÛ    ÛÛ  ÛÛ ÛÛ ßÛÛÛ  ÛÛÛÛÛ  ÛÛ    ÛÛ ÛÛ  ÛÛ ÛÛ     ÛÛ  ÛÛ
-            ÛÛÛÛÛ ÛÛÛÛÛÛ ÛÛ  ßÛÛ   ßÛß   ÛÛ    ÛÛ ÛÛ  ÛÛ ÛÛ     ÛÛÛÛÛÛ ÛÛ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+1/1/95    - â–ˆâ–ˆâ–ˆâ–ˆÃ› â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆÃœ  â–ˆâ–ˆ â–ˆâ–ˆ   â–ˆâ–ˆ â–ˆâ–ˆ    â–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆ
+            â–ˆâ–ˆ    â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆÃ›Ãœ â–ˆâ–ˆ â–ˆâ–ˆ   â–ˆâ–ˆ â–ˆâ–ˆÃ›ÃœÃœâ–ˆâ–ˆÃ› â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆ     â–ˆâ–ˆ
+            â–ˆâ–ˆ    â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆÃ› â–ˆâ–ˆÃœ Ãœâ–ˆâ–ˆ â–ˆâ–ˆÃŸâ–ˆâ–ˆÃŸâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆ
+            â–ˆâ–ˆ    â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆ ÃŸâ–ˆâ–ˆÃ›  â–ˆâ–ˆâ–ˆâ–ˆÃ›  â–ˆâ–ˆ    â–ˆâ–ˆ â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆ     â–ˆâ–ˆ  â–ˆâ–ˆ
+            â–ˆâ–ˆâ–ˆâ–ˆÃ› â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆ  ÃŸâ–ˆâ–ˆ   ÃŸÃ›ÃŸ   â–ˆâ–ˆ    â–ˆâ–ˆ â–ˆâ–ˆ  â–ˆâ–ˆ â–ˆâ–ˆ     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆ
 
             CONVMAP6!  Here is what I changed in the structures:
 
@@ -3748,14 +3748,14 @@ spriteisdeletedskip:
                   are passing the correct walldist parameters.  I'm saying
                   you may want to change some of the 128s to
                   (sprite[spritenum].clipdist<<2).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/3/95    - Made startumost[], startdmost[] into shorts.
 
           - Optimized and fixed gamma correction in Stereo Red-Blue mode.
 
           - Made weapons or anything using overwritesprite in Stereo Red-Blue
                mode be at screen depth.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/4/95    - Not that anybody would care (except for some crazed mega-hackers)
                but I am just mentioning the fact that I did this:
 
@@ -3769,7 +3769,7 @@ spriteisdeletedskip:
                                      "xor al, al", a net savings of
                                      ONE LOUSY BYTE!  Let's not get TOO
                                      excited! (By the way, just kidding)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/5/95    - Fixed the sprite centering with x-flipped FACE SPRITES.
 
           - Found a bug with my swinging door clipping code.  There are 2
@@ -3796,19 +3796,19 @@ spriteisdeletedskip:
                a while, but I forgot to document...
                   precache, loadtile, lastwall, rotatepoint
                They are now documented at the top of this file.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/6/95    - Optimized loading/saving of maps by using fewer read/write calls.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/14/95   - Fixed evil crashing bug that I accidently introduced in the
                1/3/95 version of Build.  This crashing bug happened mostly
                in tall rooms with lots of FACE SPRITES.  It used to crash
                very infrequently when you were standing almost exactly, but
                NOT on the same x & y coordinates of a FACE SPRITE where the
                z-distance was high.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/15/95   - Fixed up network code so now you can miss 4 packets in row safely
                over the network rather than just 2.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/16/95   - Added strafe left / strafe right keys to my SETUP.DAT file and
                char keys[19] array.  If you actually use my keys array for
                custom keys, here's what to do:  I inserted the new strafing
@@ -3823,15 +3823,15 @@ spriteisdeletedskip:
               permanentwritesprite(long thex, long they, short tilenum,
                                    signed char shade, long cx1, long cy1,
                                    long cx2, long cy2, char dapalnum);
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/17/95   - You can now select a bunch of sprites in 2D EDIT MODE with
                Rt. shift, then go to 3D mode and change the z's of all the
                highlighted sprites.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/20/95   - Made Tab&Enter in 3D EDIT MODE copy .pal also whenever .shade is
                normally copied.  Shift+Enter will now copy just
                .pal and .shade.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/21/95   - Made Splitsector work with overlapping better.
 
           - In Editart 'U' mode, it now goes automatically to the PCX and
@@ -3863,11 +3863,11 @@ spriteisdeletedskip:
                ExtCheckKeys() is called just before nextpage in both 2D
                and 3D modes.  In 3D mode, you must call editinput inside
                ExtCheckKeys just like my example in BSTUB.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/24/95   - Fixed vertical line chained mode bug with permanentwritesprites.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/31/95   - Fixed parallaxing sky tiling bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/1/95    - Fixed network crashing bug when call interrupt 0x1c.  You call
                this interrupt when you chain to the old timer handler.  Now
 
@@ -3906,41 +3906,41 @@ spriteisdeletedskip:
                now, it won't compile, and I didn't feel like putting up the
                7 MEG converted ART file up.  When I convert it to C, I'll
                upload it for all!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/7/95    - Fixed overwritesprite bugs with translucence in chained mode
                and above top of screen.
 
           - Made bit 3 of overwritesprite x-flip the picture if set.
 
           - Optimized various parts of engine.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/8/95    - Fixed shading of all sprite types so they match perfectly with
                their surroundings.  Floor sprites now shade in the exact same
                way as ceilings and floors.  (Before, the whole floor sprite
                had the same shade throughout)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/9/95    - Started on loading and saving game code so I could give some
                sample code for joining network games, but none of it works
                yet, so just ignore it for now!
 
           - Added frame rate in BSTUB.C.  It averages the last 16 frames.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/16/95   - Added another bit to sprite[].cstat for y-centering control.  If
                bit 7 is set then the sprite's center will be the actual
                center rather then at the default position which is at the
                bottom of the sprite.  If you use this centering bit,
                you finally get "WYSIWYG" centering contol in EDITART.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/24/95   - Made floor sprites now support any x size by a power of 2 y size.
                (That's better than before!)  These are the same restrictions
                on walls.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/25/95   - Got loading / saving code to work with my game.  Press Ctrl-L to
               load game and Ctrl-S to save game.  Saved games are called
               SAVE0000.GAME and are about 300K.  Don't worry about the large
               sizes of the saved game files since they can be easily
               compressed to less than 50K.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/26/95   - I Finally made my multiplayer code run with fast frame rates AND
                pefect controls on ALL computers of a multiplayer game.  I am
                now sending keystrokes of all computers at a constant rate of
@@ -4071,7 +4071,7 @@ spriteisdeletedskip:
                      drawscreen(screenpeek,(totalclock-gotlastpacketclock)*(65536/TICSPERFRAME));
                   }
                   ready2send = 0;
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/6/95    - New key in BUILD.  Now when you use relative alignment mode on
                ceiling and floor textures, you can press Alt-F on the ceiling
                or floor to choose a new wall to align to.  It actually
@@ -4084,7 +4084,7 @@ spriteisdeletedskip:
                Ex: screencapture("captxxxx.pcx");
                Please specify the full filename.  Screencapture will modify
                the 4 x's of the string to be a number starting at 0000.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/8/95    - Made my rotatesprite function use Editart centering information.
                The center is the pivot point of rotation.
 
@@ -4095,7 +4095,7 @@ spriteisdeletedskip:
              rotatesprite (long sx, long sy, long z, short a,
                      short picnum, signed char shade, char pal);
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/10/95   - Fixed sprite showing through closed sectors bug.
 
           - Made it possible to draw the overhead map in 3D mode by adding
@@ -4107,13 +4107,13 @@ spriteisdeletedskip:
 
               Note:  The coordinates are all shifted up 12.
                  Example: drawline256(0L,0L,319L<<12,199L<<12,31);
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/11/95   - Made drawline256 draw in a cleaner way, making use of the full
                12 bits of precision.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/14/95   - Optimized / cleaned up parts of hitscan, neartag, cansee.
                Gee, I hope they all still work!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/18/95   - I'm back in RI!
 
           - Fixed recently added movesprite z parameter bug that may have
@@ -4123,13 +4123,13 @@ spriteisdeletedskip:
                Get this straight:
                   ! - logical NOT, returns 0 if != 0 else 1 (!2457=0, !0=1)
                   ~ - bitwise NOT, xor's it with 0xffffffff (~0x5f=0xa0)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/21/95   - Gave access to some more variables in BSTUB.
 
           - Made clipmove return a valid sector even if you're not between
                its ceiling and floor.  If you use overlapping sectors,
                clipmove will find the sector closest to your z.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/28/95   - Optimized transluscence for masked walls and wall sprites.
 
           - Today is the day I declare my serial/modem error correction code
@@ -4138,7 +4138,7 @@ spriteisdeletedskip:
                I mean it.  This is ship-it quality error correction.  The old
                method had a few dark, evil, and ugly bugs that sometimes
                totally screwed up bigtime.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/5/95    - Got Master/Slave switching to stay in sync again with new
                multiplayer code.  Right after the master sends a packet
                where a switch is made, I disable the master from sending
@@ -4149,7 +4149,7 @@ spriteisdeletedskip:
                     //Do this for Master/Slave switching
                  for(i=connectpoint2[connecthead];i>=0;i=connectpoint2[i])
                     if (syncbits[i]&512) ready2send = 0;
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/10/95   - Optimized continuous setview calls between 2 different window
             sizes.
 
@@ -4209,7 +4209,7 @@ spriteisdeletedskip:
                aligned wall/floor sprites.
 
           - Please update to my new tables.dat.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/11/95   - Optimized parts of clipmove / getzrange.  Is it faster?  Did I
                make more bugs?
 
@@ -4230,12 +4230,12 @@ spriteisdeletedskip:
                 for sprites.  It works in the same way as ALT-P for palookup
                 changing.
 
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/15/95   - Fixed return value bug in setanimation and cleaned up these 3
             functions:  doanimations, getanimationgoal, setanimation.
             Since they are now in game.c, you will need to copy them to
             update.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/16/95   - Fixed hitscan not passing through loops bug.
 
           - Fixed hitscan so it hits wall and floor sprites in the right
@@ -4293,7 +4293,7 @@ spriteisdeletedskip:
                   rotatesprite right now is using a worse than awful
                   algorithm.  When I optimize rotatesprite, the frame rate
                   of the new map mode will fly!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/18/95   - Added default sprite cstat variable when you insert new sprites.
                Set it to 0 if you hate the new centering mode in ExtInit
                     or 128 if you like the new centering mode.
@@ -4318,7 +4318,7 @@ spriteisdeletedskip:
           - Cleaned up drawmapview further by making ALL floor sprite draw
                with the texture in the right place and made the polygon
                filling algorithm use higher screen coordinate precision.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/19/95   - Added parameter to makepalookup:
 
             makepalookup(long palnum, char *remapbuf,
@@ -4349,12 +4349,12 @@ spriteisdeletedskip:
                sprite[].cstat &= (255-4);  BAD!  Cstat's a short!  Please
                check your code and make sure you clear the bits this way:
                sprite[].cstat &= ~4;
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/21/95   - Fixed bug with flipping textures on ceilings & floors.  In
                BUIL0419.ZIP I had a bug whenever a ceiling or floor texture
                had bit 4 set.  It drew the texture backwards.  Well, I
                fixed it.  Hope you didn't "Build" on this bug!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/22/95   - Fixed really really stupid hitscan returning sector < 0 bug.  If
                you were calling hitscan from the top-left triangular region
                of the board it stupidly returned a -1 for the sector.  Well,
@@ -4422,7 +4422,7 @@ spriteisdeletedskip:
 
 
           - Fixed keyboard repeating.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/26/95   - Hi-res now works in all modes!  The code I gave in the 4/22/95
                description is still perfectly valid, so please copy it if
                you haven't already looked at it.  Here are some important
@@ -4476,7 +4476,7 @@ spriteisdeletedskip:
 
           - Fixed distance overflow bug (the one that showed garbage
                textures if a wall was really far away).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/27/95   - Made an example board, MONWALK.MAP, where monsters walk along
                a bridge with no railing, onto a sector, and even up and down
                a stairway without falling off it.  If you shoot a brown so
@@ -4501,7 +4501,7 @@ spriteisdeletedskip:
                daz = sprite[i].z;
                if ((sprite[i].cstat&128) == 0)
                   daz -= ((tilesizy[sprite[i].picnum]*sprite[i].yrepeat)<<1);
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/28/95   - ATTENTION PROGRAMMERS!  When a tile is not in the cache:
               Before it used to be this:
 
@@ -4543,7 +4543,7 @@ spriteisdeletedskip:
                This is useful for quick relative alignment adjustments.
                Alt-F for 2D and 3D modes may not work for sectors with loops
                inside of them.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/1/95   - Optimized horizontal line setup code from 9 multiplies to
               7 multiplies.
 
@@ -4553,7 +4553,7 @@ spriteisdeletedskip:
          - Optimized horizontal line assembly code so it doesn't use the
               awful SHLD instruction any more.  This is a good speed
               improvement for Pentiums only.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/2/95   - Added some code to my GAME.C which detects when a computer gets
               out of sync in a multiplayer game.  It's not as easy as you
               may think with all the faketimerhandler and fifo crap.  If
@@ -4561,12 +4561,12 @@ spriteisdeletedskip:
               my code with the keyword "syncval".
 
          - Fixed palookup crashing bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/6/95   - Moved windowx1, windowy1, windowx2, windowy2 variables into
               BUILD.H.  They are the exact parameters you passed to the
               last setview call.  Please DO NOT modify them directly.
               Use setview to modify them.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/10/95  - Fixed makepalookup bug when shading to non 0.
 
          - Fixed palookup pointer setting bug.
@@ -4617,14 +4617,14 @@ spriteisdeletedskip:
          - Fixed clipmove crashing bug when passing a sectnum < 0.  Whenever
               you moved in BUILD and you weren't in a valid sector, memory
               was getting trashed.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/12/95  - Added ExtPreCheckKeys(void) to BSTUB.C.  It is called before
               drawrooms / drawmasks in 3D mode, whereas ExtCheckKeys(void)
               is called after drawrooms / drawmasks (and before nextpage).
 
          - Added bit to flags of rotatesprite to allow x-flipping.  See
               updated documentation.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/17/95  - Added aspect ratio for those weird modes like 320*400, etc.
               You could call setaspect to properly adjust a mode that is
                  not exactly correct, or for special effect that stretch
@@ -4656,7 +4656,7 @@ spriteisdeletedskip:
                  will need to make sure drawoverheadmap is affected so
                  the map modes match up.  Please look at and copy my updated
                  drawoverheadmap function into your GAME.C if you use it.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/18/95  - Revised caching system so it supports locking.
               Here are the new parameters to allocache:
 
@@ -4670,10 +4670,10 @@ spriteisdeletedskip:
                  Call uninitcache(1) to remove ALL items.
                     After calling uninitcache, you do not need to call
                  initcache to use the cache again.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/21/95  - Made changespritesect and changespritestat return 0 instead of -1
               when changing to same value.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/25/95  - Added relative visibility for sectors.  In 3D EDIT MODE, use
              ALT+(keyp.)+/- to change an individual sector's visibility.
              Press Shift in addition for fine visibility changine.  By
@@ -4686,7 +4686,7 @@ spriteisdeletedskip:
              delete all the highlighted sectors.
 
          - Fixed build sometimes not saving when quitting from 2D mode bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/27/95  - Fixed bugs in network work that should make it miss packets
               much less often than before.
 
@@ -4709,12 +4709,12 @@ spriteisdeletedskip:
               If tagsearch = 3, neartag searches lotag&hitag
 
               Neartag used to always search both lotag&hitag.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/30/95  - Added ExtAnalyzeSprites(void) to BSTUB and a spriteshade array
               to BUILD.H.
 
          - Made circle drawing in 2D EDIT MODE work better at large sizes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/5/95   - Added shareware / registered artwork version control to EDITART.
               In 'V' mode, when you press ALT-R to get a report of tile
               frequencies of tiles on all the maps in the current directory,
@@ -4725,7 +4725,7 @@ spriteisdeletedskip:
               you do the deleting phase, copy all artwork to a temporary
               directory!!!  It is safe, however, the toggle the new bit in
               the full version.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/7/95   - Made 3 main structures defined with typedef so struct prefix
               is no longer needed with sectortype, walltype, and spritetype.
 
@@ -4782,16 +4782,16 @@ spriteisdeletedskip:
               I can make kgroup support appending, replacing, and extraction.
 
               Here is the file format of a grouped file:
-         ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-         ³   12 bytes - File grouping ID                                   ³
-         ³    4 bytes - Number of files                                    ³
-         ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-         ³For each file: (16 bytes per file)                               ³
-         ³   12 bytes - Filename with extension (13th byte would be a 0)   ³
-         ³    4 bytes - Length of file                                     ³
-         ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
-         ³ Pure, raw file data, ordered just like you think it would be    ³
-         ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+         â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”“
+         â”ƒ   12 bytes - File grouping ID                                   â”ƒ
+         â”ƒ    4 bytes - Number of files                                    â”ƒ
+         â”£â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”«
+         â”ƒFor each file: (16 bytes per file)                               â”ƒ
+         â”ƒ   12 bytes - Filename with extension (13th byte would be a 0)   â”ƒ
+         â”ƒ    4 bytes - Length of file                                     â”ƒ
+         â”£â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”«
+         â”ƒ Pure, raw file data, ordered just like you think it would be    â”ƒ
+         â”—â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”›
               There just couldn't be a simpler format.  This format is so
                  hacker happy that when you view it in a hex editor, all the
                  filenames line up perfectly since they're multiples of 16.
@@ -4841,7 +4841,7 @@ spriteisdeletedskip:
                where:
             if searchfirst = 0 then search stand alone first then group file
             if searchfirst = 1 then search group file only
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/12/95   - Tracked down an OUT OF SYNC bug with my multiplayer code!
                In my GAME.C, the way I had my sync arrays organized were
                   wrong.  The problem was that if faketimerhandler was
@@ -4878,23 +4878,23 @@ spriteisdeletedskip:
                   When this happens, then you should kill the player
                   instantly, because this only happens when the player is
                   getting smooshed.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/13/95   - Made clipinsidebox and clipinsideboxline return 0 if line doesn't
                intersect box, 1 if line intersects box and center of box
                is in front of line, or 2 if line intersects box and center
                of box is behind line.
 
           - Cansee should now work properly with overlapping.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/19/95   - ATTENTION!  Remove work-arounds!!!  Found nasty getzrange bug.
                Getzrange used to let you fall through red sector line cracks
                when you were near more multiple red sector line sharing the
                same 2 sectors.  Sound familiar anybody?
 
           - Made pushmove return the sector of whatever x and y end up in.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/22/95   - I included cache1d.c renamed to cache1d.txt in this upload.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/26/95   - Made face and wall sprites of clipmove, getzrange, hitscan, and
                neartag sensitive to the y-offset that you set in Editart.
 
@@ -4910,7 +4910,7 @@ spriteisdeletedskip:
                supposed to.  Also, I fixed a case where wall sprites
                disappeared when they happened to be between 2 white walls
                that clipped it.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/27/95   - Fixed even more sprite drawing clipping bugs for wall sprites.
 
           - BONUS!!!  Wall sprites now clip to white walls! (not red walls)
@@ -4918,7 +4918,7 @@ spriteisdeletedskip:
                wall sprite is behind the wall or else it will get clipped.
                Please run lookatme.map from my game.exe which demonstrates
                some of the things you can do in build now without bugs.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/30/95   - Made drawline256 clip with startumost/startdmost.
 
           - Moved keyboard handler into GAME.C.  Here's what you need to do
@@ -4962,10 +4962,10 @@ spriteisdeletedskip:
                I also had to move the stereo adjustment keys into game.c
                Just search for the "stereo" keyword in GAME.C.  It'll take
                through all the necessary places.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/5/95    - Moved my keytimerstuff from my timerhandler into getinput.
                (which is where it should be)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/10/95   - Added a loadtilelockmode variable to BUILD.H.  It's a global
                variable that makes future loadtile calls allocate their
                buffers on the cache as unlocked (0-default) or locked (1).
@@ -4976,7 +4976,7 @@ spriteisdeletedskip:
 
           - Made my 2D EDIT MODE space bar code clear out new sectors and
                wall structures to 0. (except for the extras which are -1)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/20/95   - I forgot to documenent rotatesprite bit 3, which controls
               whether or not the sprite will be clipped to the startumost
               /startdmost arrays.  If the bit is a 1, then the sprite will
@@ -5013,11 +5013,11 @@ spriteisdeletedskip:
                  replaced with rotatesprite which now does everything.
                  To replace permanentwritesprite, you must make sure to
                  draw to all the pages in numpages.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/27/95   - Fixed recently introduced build 3D mode bug when you press the
                L.ENTER key on a blank map.  Also made sectorofwall return -1
                if an invalid wall is passed to it.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/28/95   - Added a function to my game that shows only the local area of
                the map by scanning through the nextsectors of walls and
                setting the show2dsector, show2dwall, and show2dsprite
@@ -5035,7 +5035,7 @@ spriteisdeletedskip:
                getsyncstat, I was calling updatecrc16() with things other
                than chars, making it index invalid parts of the crctable
                array.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/30/95   - Reduced some overhead memory:
              * Removed walsiz[] array.  (16K saved).  If you ACTUALLY used
                   this array, you can multiply tilesizx[]*tilesizy[] instead.
@@ -5043,15 +5043,15 @@ spriteisdeletedskip:
              * Removed tantable. (4K saved)
              * Reduced internal constant, MAXWALLSB, from 4096 to 2048
                (96K saved).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/1/95    - Added another bit to rotatesprite for top-left corner mode and
                made documentation of the stat bits more clear.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/3/95    - Fixed a bug with rotatesprite so it now scales perfectly to the
                full screen view when enabling bits 2 and 8 of the stat field.
                This means that with rotatesprite, you can easily get your
                status bars, etc., to work at any resolution.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/4/95    - New Doom->Build update!  You can now convert doors and lots of
                other weird things.  Fixed more conversion bugs.  Sprites now
                convert properly in doom-artwork mode.  You can now convert
@@ -5059,7 +5059,7 @@ spriteisdeletedskip:
 
           - Added some wacky aspect ratio keys to 3D EDIT MODE of BUILD.
                Use  Rt.Ctrl Rt.Alt Lt.-  or  Rt.Ctrl Rt.Alt Lt.=  to select.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/12/95   - Added parameter to initmultiplayers to allow who becomes
                master at the start of a multiplayer game.
 
@@ -5068,10 +5068,10 @@ spriteisdeletedskip:
                horizon.  Default is 65536.  With lower values, you don't
                need as much artwork and can look higher, but I like 65536
                because it is the correct projection.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/13/95   - Had MAJOR bug with my searchmap function.  If you use it, please
                re-copy from my game.c
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/14/95   - Fixed some EVIL bugs with Rt.ALT sector copying.  It shouldn't
                screw up your maps anymore!  And if you have maps that were
                screwed up with it, you can try my new map correcting key,

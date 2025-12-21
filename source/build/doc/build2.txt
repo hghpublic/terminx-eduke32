@@ -7,7 +7,7 @@ BUILD engine Notes (7/24/96):
 BUILD programmed by Ken Silverman
 
 BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/12/95   - Added parameter to initmultiplayers to allow who becomes
                master at the start of a multiplayer game.
 
@@ -16,10 +16,10 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                horizon.  Default is 65536.  With lower values, you don't
                need as much artwork and can look higher, but I like 65536
                because it is the correct projection.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/13/95   - Had MAJOR bug with my searchmap function.  If you use it, please
                re-copy from my game.c
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/14/95   - Fixed some EVIL bugs with Rt.ALT sector copying.  It shouldn't
                screw up your maps anymore!  And if you have maps that were
                screwed up with it, you can try my new map correcting key,
@@ -27,7 +27,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                perfect map.  However it can SOMETIMES clean up a map that
                was screwed up.  I take no responsibility if it screws up
                your map even more, so please check them before saving!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/16/95   - Added error correction to mmulti.obj.  Mmulti.obj is like
                multi.obj but it is made to work with Mark's real mode
                multiplayer driver that he calls COMMIT.
@@ -69,7 +69,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
           - Kgroup can now accept a parameter as a filename with a list of
                files to be put into the group file.
                Ex:  "kgroup @filelist.txt"
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/18/95   - Found a way to greatly reduce slave "hitching" on multiplayer
                games for faketimerhandler style communications.  It's pretty
                simple.
@@ -139,7 +139,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                End of drawscreen:
                      //Restore doanimations interpolation
                   for(i=animatecnt-1;i>=0;i--) *animateptr[i] = oanimateval[i];
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/19/95   - Added global invisibility variable.  Initengine sets it to 0
                by default.  If you set global invisibility to 1, then
                all sprites with the invisible bit set (sprite[].cstat&0x8000)
@@ -168,22 +168,22 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                         clipmove when cliptype = 1
                         getzrange when cliptype = 1
                         hitscan always
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/20/95   - Reduced some overhead memory by combining 2 large internal
                arrays which were used in different parts of the engine.
                This is a total savings of about 90K.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/24/95   - Changed the way 'E' mode works on ceiling and floor textures.
                64*64 and 128*128 textures are the same as before so I think
                this won't screw up your existing maps. (But I can never be
                sure)  Now, 'E' mode always smooshes the texture size by 2 for
                any size texture.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
-8/29/95   - ÜÛÛÛÛÛÛÜ ÛÛ       ÜÛÛÛÛÛÛÜ ÜÛÛÛÛÛÛÜ ÜÛÛÛÛÛÛÜ ÜÛÛÛÛÛÛÜ ÛÛ ÛÛ ÛÛ
-            ÛÛ       ÛÛ       ÛÛß  ßÛÛ ÛÛ    ÛÛ ÛÛ       ÛÛ       ÛÛ ÛÛ ÛÛ
-            ßÛÛÛÛÛÛÜ ÛÛ       ÛÛ    ÛÛ ÛÛÛÛÛÛÛß ÛÛÛÛÛÛ   ßÛÛÛÛÛÛÜ ÛÛ ÛÛ ÛÛ
-                  ÛÛ ÛÛ       ÛÛÜ  ÜÛÛ ÛÛ       ÛÛ             ÛÛ ßß ßß ßß
-            ßÛÛÛÛÛÛß ßÛÛÛÛÛÛÛ ßÛÛÛÛÛÛß ÛÛ       ßÛÛÛÛÛÛß ßÛÛÛÛÛÛß ÛÛ ÛÛ ÛÛ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+8/29/95   - â–Ÿâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–ˆâ–ˆ       â–Ÿâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–Ÿâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–Ÿâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–Ÿâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–ˆâ–ˆ â–ˆâ–ˆ â–ˆâ–ˆ
+            â–ˆâ–ˆ       â–ˆâ–ˆ       â–ˆâ–ˆâ–›  â–œâ–ˆâ–ˆ â–ˆâ–ˆ    â–ˆâ–ˆ â–ˆâ–ˆ       â–ˆâ–ˆ       â–ˆâ–ˆ â–ˆâ–ˆ â–ˆâ–ˆ
+            â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–ˆâ–ˆ       â–ˆâ–ˆ    â–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–› â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–™ â–ˆâ–ˆ â–ˆâ–ˆ â–ˆâ–ˆ
+                  â–ˆâ–ˆ â–ˆâ–ˆ       â–ˆâ–ˆâ–™  â–Ÿâ–ˆâ–ˆ â–ˆâ–ˆ       â–ˆâ–ˆ             â–ˆâ–ˆ â–œâ–› â–œâ–› â–œâ–›
+            â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–› â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–› â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–› â–ˆâ–ˆ       â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–› â–œâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–› â–ˆâ–ˆ â–ˆâ–ˆ â–ˆâ–ˆ
 
             New 3D EDIT MODE BUILD keys:
                Press [ or ] on a ceiling or floor to change the slope.
@@ -218,7 +218,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                And if I didn't list your favorite bug of the day, it will
                probably be brought up by the 2 internal teams now working
                with BUILD.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/4/95    - Made ALT-F select any wall of a sector, even crossing loops.
                In 3D mode, ALT-F now sets the selected wall directly to the
                first wall.
@@ -236,7 +236,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                supposed to document bug fixes here!  This is what you get
                for wanting BUILD tonight.  As soon as I fix these darn
                divide bugs, I'll put up a new version.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/5/95    - Fixed all known divide overflow bugs related to wallmost.  I
                haven't gotten a divide overflow yet in the last few hours,
                but that doesn't guarantee that you'll never get one.  Take a
@@ -250,7 +250,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
 
                - Also, I noticed a rare sprite drawing clipping bug.  I
                    don't know if this is new or not.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/7/95    - Fixed an exception 0xe bug by using tsprite[MAXSPRITESONSCREEN-2]
                instead of tsprite[MAXSPRITESONSCREEN-1].  I don't understand
                why this fixed it so I expect that it will come back to haunt
@@ -299,9 +299,9 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                5 = S3
                6 = Crystal Eyes mode
                7 = Red-Blue mode
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/9/95    - Fixed visibility for face sprites in high resolution modes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/14/95   - Added a new bunch of graphics modes using the new VESA 2.0 linear
                buffer.  (I replaced the useless chain-buffer mode with VESA
                2.0 modes)  See my new SETUP.  Since most cards only support
@@ -327,12 +327,12 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
 
                Note: Never set the priority byte to a 0!  Let the cacheing
                   system do that for you.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/15/95   - Optimized hitscan a little and made it work with slopes.
 
           - Made some internal things in the build editor work better with
                sprites on slopes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/16/95   - Note:  Initengine now only does memory allocation for the
                    graphics modes.  The ylookup table is calculated in
                    setgamemode since with VESA, I don't know certain
@@ -354,7 +354,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
           - Fixed recently introduced hitscan divide overflow bug.
 
           - Fixed a sprite drawing clipping bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/17/95   - ATTENTION PROGRAMMERS:  I moved the sprite shading code from
                the engine into GAME/BSTUB.  If you want sprites to shade
                like they used to, be sure to copy the code I recently added
@@ -370,7 +370,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                alignceilslope(short sectnum, long x, long y, long z);
                   and
                alignflorslope(short sectnum, long x, long y, long z);
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/18/95   - Kgroup will now work with subdirectories.
 
           - ATTENTION PROGRAMMERS:  I have not done this yet, but I am
@@ -379,7 +379,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                have.  The only changes I am planning on, besides re-arranging
                the structures for better alignment is to give the slopes some
                more bits precision.  This may limit slopes to a maximum slope
-               of 4 (almost 76ø) which is still extremely high.  Here are the
+               of 4 (almost 76Ã¸) which is still extremely high.  Here are the
                new structures that I am proposing:
 
                   //40 bytes
@@ -429,10 +429,10 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
                be use for fog. (DOH!))
 
           - Fixed another wonderful hitscan divide bug.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/22/95   - Optimized slopes.  On a 486-66 w/ local bus in VESA 2.0 320*200
                mode, a full screen slope was optimized from 24fps to 35fps!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/25/95   - Re-optimized some more assembly.
 
           - ATTENTION EVERYONE!  CONVMAP7!  You know what this means.  Just
@@ -476,7 +476,7 @@ BUILD.TXT CONTINUED...  (BUILD.TXT WAS GETTING TOO BIG!!!)
           - ATTENTION PROGRAMMERS!  Removed overwritesprite.  Use
                rotatesprite instead.  I don't want to support a function that
                can totally be done with another better function.  I will
-               eventually optimize rotatesprite for 90ø cases so it's even
+               eventually optimize rotatesprite for 90Ã¸ cases so it's even
                faster than the current overwritesprite.  If you're too lazy
                to convert right now, then you can use this overwritesprite
                stub function:
@@ -523,27 +523,27 @@ overwritesprite (long thex, long they, short tilenum,
                lookup table, such as:  palookup = palptr[davis][dashade],
                but I couldn't think of a good way to make the array small
                enough for what people need.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/26/95   - Fixed drawmapview so it actually clips to the rectangular window
                properly.  It does not clip to startumost/startdmost so you
                should call a rotatesprite to draw the status bar every frame
                if it is not rectangular.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/30/95   - Fixed recently introduced mirror bug.
 
           - Fixed rotatesprite x-positioning bug in scale mode for weird
                  resolutions.
 
           - Fixed tilting for pure chained modes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/2/95   - Changed setbrightness call:
 
                setbrightness(char dabrightness, char *dapal)
                   dabrightness is gamma level(0-15)
                   dapal is pointer to standard VGA 768 byte palette.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/3/95   - Fixed flicker in UNIVBE modes.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/6/95   - Added a global visibility variable to BUILD.H specific for
                p-skies called parallaxvisibility.  Now you can do lightning
                effects without modifying the visibility for everything.
@@ -557,9 +557,9 @@ overwritesprite (long thex, long they, short tilenum,
                the tile has transparent regions or not.  If there are no
                transparent regions, then it would be faster to set this bit
                because it doesn't have to check for color 255 at every pixel.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/11/95  - Back in RI!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/13/95  - Cleaned up setup program by having only 1 VESA menu for all
                possible VESA modes.  The engine will now auto-detect whether
                or not your computer supports VESA 2.0.  The screen buffer
@@ -574,7 +574,7 @@ overwritesprite (long thex, long they, short tilenum,
                it loads instantly.  I try not to use TSR's whenever possible,
                but I found that UNIVBE is worth wasting 8K.  I don't think my
                computer has ever crashed due to something related to UNIVBE.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/17/95  - Found an easy way to interpolate everything for faketimerhandler
                in my game, including swinging doors, revolving doors, and
                other moving sectors.  My doanimations interpolation now uses
@@ -625,7 +625,7 @@ overwritesprite (long thex, long they, short tilenum,
                positive.  Please make sure your code will work if an
                allocation function returns a negative pointer (Windows often
                returns negative pointers).
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/19/95  - Tried to make pushmove work with face sprites, but it kept making
                the player die too much.  Also it presented some interesting
                new problems, such as:  You get pushed by your own bullets
@@ -674,7 +674,7 @@ overwritesprite (long thex, long they, short tilenum,
               2. Bit 6 (&64) is set for non-masking mode
               3. tilesizy[tilenum] is a power of 2
               4. If coincidentally, x=34562, y=34682, and zoom=67275
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/20/95  - Fixed vertical line shading bugs when looking at walls at harsh
                angles.
 
@@ -684,7 +684,7 @@ overwritesprite (long thex, long they, short tilenum,
           - Fixed overflow and precision bugs with extremely long walls.
                I even got the chance to optimize out a multiply in the
                wallmost clipping code!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/25/95  - Now absolutely everything in my game is being interpolated
                for smooth play - including subways!  No interpolation
                disable variable exists any more.  The setinterpolation
@@ -710,7 +710,7 @@ overwritesprite (long thex, long they, short tilenum,
                If you use this code, don't bother calling setbrightness any
                more.  The only bad thing about programming this yourself
                is that you lose support for red-blue glasses mode.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/26/95  - Added support for VESA 2.0 protected mode extensions.  With the
                protected mode extensions, the page-flipping is less likely to
                flicker, if at all.  This is because the retrace timing isn't
@@ -729,7 +729,7 @@ overwritesprite (long thex, long they, short tilenum,
                properly when calling rotatesprite and nextpage for the first
                time before any drawrooms calls.  This used to not work right
                at my "waiting for other players" code in this mode.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/27/95  - Did you notice I fixed some of the weird cases with slope drawing
                in the last upload?   I fixed things like when a ceiling of
                one sector is partially below the floor of another, etc.
@@ -748,14 +748,14 @@ overwritesprite (long thex, long they, short tilenum,
 
           - Removed some unnecessary sounds from my game.  This doesn't
                really affect you people out there.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/30/95  - Fixed recently screwed up p-sky tiling.
 
           - Made Editart work with map version 7 for tile sorting and the
                Alt-R command.  Alt-R does not scan the heinum's of sectors
                any more, and only adds in the overpicnum if a masked or
                1-way wall is actually defined on the map.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/31/95  - Fixed a bug with my slopalookup array.  It was sometimes writing
                up to 3 bytes after the end of the array.
 
@@ -771,7 +771,7 @@ overwritesprite (long thex, long they, short tilenum,
                    rotatesprite(thex<<16,they<<16,65536L,0,tilenum,shade,
                         dapalnum,8+16,cx1,cy1,cx2,cy2);
                 }
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/1/95   - Guess what?  I turned 20 today.  This means I'm no longer a
                teenage programming genius.  Doesn't that just suck.  If you
                guys don't get a game out by the next time my age plus
@@ -800,7 +800,7 @@ overwritesprite (long thex, long they, short tilenum,
           - Supposedly fixed the new rotatesprite and linear vesa crashing
                bugs.  Since I'm not totally sure that I fixed the problems,
                all I can do is hope that I don't get too many phone calls!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/4/95   - Did some neat optimizations that will make the drawing code
                faster, especially in hi-res modes, but I'm sure nobody cares.
                Instead I'm probably just going to get 10 totally different
@@ -818,16 +818,16 @@ overwritesprite (long thex, long they, short tilenum,
 
                   for(i=danum-1;i>=0;i--)
                      if (clipsectorlist[i] == secte) return(1);
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/7/95   - Optimized the awful shld's out of my divscale's in pragmas.h.
                You can update to the new pragmas.h if you actually use it.
 
           - Remember the lovely horizontal lines on top of face sprites.
                Well you won't be seeing them any more.  At least the case
                I trapped works better than before.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/8/95   - Made krand generate better random seeds.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/9/95   - ATTENTION PROGRAMMERS!  Moved part of stat bit 3 of rotatesprite
                to bit 7.  Have you noticed that your menu code was kind of
                screwy in modes where numpages > 1?  This is because I made
@@ -877,7 +877,7 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
        window or (0L,0L,xdim-1L,ydim-1L) for things scaled to full screen.
        Probably the only time you wouldn't follow this rule is if you program
        a non-scaled tiled background function.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 11/21/95  - Optimized cansee - before it was checking each red wall 2 times
                as much as it needed to.  Now it only checks the side facing
                the first object passed to cansee.  Since this optimization
@@ -894,17 +894,17 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
                And if you were real lucky, if the x-intercept could have been
                so wrong that a loop would happily overwrite random chunks of
                memory.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/1/95   - In my GAME.C, made tilting zoom in smoothly as it rotates to
                hide the ugly corners.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/4/95   - Made some more optimizations to rotatesprite - added more cases
                for removing things from the permanent list early, such as:
                any full screen rotatesprite with 64 knocks everything else
                off the list, and any rotatesprites with zoom=65536,ang=0,
                stat&64 will knock out anything totally under its rectangle.
                These optimizations seemed to actually fix some bugs.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/10/95  - Well, well, well.  It has now been 2 years since you know what
                was released and Apogee still hasn't put out a (real) Build
                game.  Trivia of the year:  Did you know that the first Build
@@ -914,7 +914,7 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
                to rot on my hard drive for another year until all the games
                just get cancelled.  PROVE ME WRONG!
 
-          - Added selectable viewing angles - not locked at 90ø anymore!
+          - Added selectable viewing angles - not locked at 90Ã¸ anymore!
                Try playing around with the ( ) - = keys on the main keyboard
                in my new BSTUB.C.  See the example code in BSTUB for setaspect.
                Use the setaspect function to control both the viewing range
@@ -922,14 +922,14 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
 
                setaspect(long daxrange, long daaspect)
 
-               For a standard 90ø 320*200 screen, daxrange and daaspect are
+               For a standard 90Ã¸ 320*200 screen, daxrange and daaspect are
                   65536.  For square aspect ratio at 320*400, set daaspect
                   to 131072.  Since daxrange is actually zoom, you must
                   modify the aspect ratio inversely if you only want to
                   change the viewing angle.
 
             ATTENTION EVERYONE!  To make parallaxing skies work with larger
-               than 90ø viewing ranges, I had to change some things around
+               than 90Ã¸ viewing ranges, I had to change some things around
                in TABLES.DAT.  Don't forget to update to the new one!  The
                new one is smaller because I removed a useless array.
 
@@ -938,16 +938,16 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
                screen.  It still has some things wrong with it though.
 
           - Perfected screen tilting by using the new setaspect function.  It
-               now tilts all 360ø smoothly with no zoom change and with no
+               now tilts all 360Ã¸ smoothly with no zoom change and with no
                ugly corners.  This is possible only because you can now set
-               the viewing angle higher than 90ø.
+               the viewing angle higher than 90Ã¸.
 
           - Fixed a flicker bug with permanent rotatesprites in multi-page
                modes.  When rotatesprite was called because drawrooms in a
                multipage mode, the rotatesprites were being called in the
                wrong order from the fifo for the first page.  Note that
                before, the auto-knock out feature sometimes hid the problem.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/11/95  - Made EDITART work with the new TABLES.DAT.
 
           - Upgraded to Watcom 10.5.  The engine is now about 1K larger,
@@ -961,9 +961,9 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
             Note: Since these functions need to allocate 118K off of my LRU
                cacheing system, you must not call them before
                initcache(loadpics) is called.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/18/95  - Made rotatesprite use getpalookup to get the palette shade.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/31/95  - Cleaned up KGROUP.EXE and wrote a KEXTRACT.EXE utility.  With
                KEXTRACT, you can extract any files from a group file.
                Note that in KGROUP, DOS handles the ? and * wildcards whereas
@@ -1119,14 +1119,14 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
              just trying to confuse you with all the possible word
              combinations I could come up with that contain the letters in:
              "fake", "sync", and "fifo".
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/6/96    - Made RT.SHIFT highlighting in build.obj not pick up non-existent
                sprites in the selection rectangle.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/9/96    - Fixed a rare hitscan overflow bug for sectors that had a
                ceiling&floor z-difference of more than 400000 z-units.
                (About 20 stories tall)
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/15/96   - Changed something in rotatesprite so that status bars could be
                clipped easily by using the clipping parameters.  (I never
                knew this didn't work until now)  This change will only affect
@@ -1143,22 +1143,22 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
                to the real, older position then call fakedomovethings for
                every tic from the time of the real, older position up to
                the current time.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/19/96   - Added snow reduction code to setpalette.  It takes about 4 ms
                to set a full palette.  I write during the horizontal retrace
                period to save time.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/23/96   - Added hack to loadboard to make it load a board only from the
                group file if the last character of the filename is a 255.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 1/25/96   - Fixed a stupid bug in UNIVBE segmented modes so it doesn't
                flicker anymore.  Why didn't you guys tell me about this
                sooner!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/1/96    - Optimized cansee according to Peter's suggestions.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/2/96    - Made setview calls not mess up the stereo vision variables.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/5/96    - ATTENTIONS ALL PROGRAMMERS!!!  If you use use any VGA registers
                (such as 0x3da, or 0x3c6 - 0x3c9), you will need to re-code
                those sections of code.  Please make your BSTUB's work with
@@ -1214,9 +1214,9 @@ rotatesprite (long sx, long sy, long z, short a, short picnum,
                       mypalette[i*4+3] = 0;        //reserved
                    }
                    VBE_setPalette(0,256,mypalette);
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/7/96    - Did some minor optimizations to functions that use cliptype.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/9/96    - ATTENTION PROGRAMMERS!!!  There is no such thing as a cliptype
             anymore!  Instead you use clipmasks.  Clipmasks are much better
             because it gives you full control of which bits are used to
@@ -1277,10 +1277,10 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                to compare whether the new hit is closer then the last one.
 
                long hitscangoalx = (1<<29)-1, hitscangoaly = (1<<29)-1;
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/13/96    - Fixed a bug in clipmove that showed up in the latest upload
                 related to sector searching.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/18/96    - Re-wrote waitforeverybody / case 250 of getpackets, so the slave
                 sends acknowledge packets in a better way.  Before there was
                 a possibility of a slave sending an invalid acknowledge
@@ -1290,7 +1290,7 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                 is invalid or 0 if it is valid.  Since the engine no longer
                 quits to DOS from an invalid video mode, you must program the
                 -1 case or else the computer will probably lock up!
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 3/5/96     - Solved tile index corruption bug in EDITART.  After looking at
                 the latest art files I have from you, It looks like SW has
                 this problem, but DUKE and BLOOD seem ok.  Let me explain:
@@ -1317,14 +1317,14 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                 insert a blank tile at the end of the CURRENT art file.
                 If your ART files are already corrupt, you can run
                 RSIZEART.EXE and agree on a number of tiles per file.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 4/27/96    - Fixed a bug where rotatesprite seemed to clip the tile
                 to the viewing window even though stat&8 (don't clip
                 to startumosts/startdmosts) was set.  The problem was
                 actually related to an optimization in the VESA blitting
                 code that copies only the screen if it thinks nothing
                 was drawn outside of the viewing window.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/15/96    - I must have added a whole bunch of unnoticable optimizations
                 since the last time I typed stuff into this file, but since
                 I didn't keeping track of it, I couldn't tell you what they
@@ -1363,7 +1363,7 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
 
               * initstereo automatically sets stereomode to nonzero and
                 uninitstereo automatically sets stereomode to 0.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/5/96     - Made cache1d.obj support up to 4 group files at the same time.
                 To use multiple group files, simply call initgroupfile again.
                 You need to uninitgroupfile only once.  This is useful if
@@ -1398,10 +1398,10 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
 
            - Fixed a stupid bug with choosing the side of a red line in BUILD
                 2D edit mode.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 7/24/96    - Increased MAXTILES to 6144.  Fixed some scrolling errors related
                 to MAXTILES in 'V' mode of EDITART and BUILD.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 8/20/96    - Made it possible to safely default to NORMAL mode 320*200 when
                 VESA is not supported or found.  Check out the beginning of
                 my setup3dscreen function.  It shows how you can offer the
@@ -1409,7 +1409,7 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                 mode.  It is very annoying when setting up multiplayer games
                 when the game always quits to DOS because somebody forgot
                 to load their VESA driver.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/6/96     - Moved internal function, setfirstwall, in BUILD.OBJ into
                 ENGINE.OBJ because it can be useful to game programmers.
                 This function sets the first wall of a sector to be the
@@ -1434,7 +1434,7 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                 clipmoveboxtracenum = 1;
                 i = clipmove(...);
                 clipmoveboxtracenum = 3;
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 9/25/96    - Removed support for specially optimized TSENG, Paradise, and S3
                 modes.  If you want the engine to run as fast on these cards,
                 get Scitech Software's latest Vesa 2.0 driver.
@@ -1487,23 +1487,23 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                faketimerhandler because this would be in the middle of the
                drawing code.  Actually, the safest place to call setgamemode is
                right after nextpage in your main drawing loop.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 12/13/96   - Fixed the nasty caching bug first found in the Plutonium version
                of Duke3D.  I was using copybuf when I should have been using
                copybufbyte.
 
            - Made the '>' key in 3D EDIT MODE not lock up any more for
                textures that have non power of 2 tilesizy's.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 2/12/97    - Optimized mirror code so it x-flips only the bounding rectangle
                 (x AND y).  Actually calculates left & right boundaries instead
                 of using the horizontal line checking stuff which didn't really
                 work all the time anyway.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 5/22/97    - Frank noticed a divide overflow in clippoly when drawmapview was
                 in hi-res mode.  -fixed by lowered precision from 16 to 12
                 bits.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 6/2/97     - Added support for the Nuvision 3D-Spex stereo glasses.  I renamed
                 initstereo to setstereo and got rid of uninitstereo.  Here's
                 complete documentation for all of the new stereo glasses stuff:
@@ -1523,7 +1523,7 @@ hitscan (long xs, long ys, long zs, short sectnum, long vx, long vy, long vz,
                    Please do not extern stereomode any more since I use it now
                to uninit the old mode automatically.  Use your own current
                stereo mode variable.
-ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
 10/4/97    - I have upgraded to Watcom 11.0.  The only changes I had to make
                in the engine were some "#pragma push" and "#pragma pop"
                calls in BUILD.H since the default structure packing alignment
