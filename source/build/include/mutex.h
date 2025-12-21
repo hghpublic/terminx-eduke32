@@ -13,6 +13,7 @@ extern "C" {
 #endif
 
 #if SDL_MAJOR_VERSION >= 2
+#include <SDL2/SDL_atomic.h>
 typedef SDL_SpinLock mutex_t;
 #elif defined _WIN32
 # include "windows_inc.h"
