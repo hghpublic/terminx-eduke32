@@ -2,6 +2,7 @@
 #if (SDL_MAJOR_VERSION == 1 && SDL_MINOR_VERSION < 3)
 static char keytranslation[SDLK_LAST];
 #else
+#include <SDL2/SDL_scancode.h>
 static char keytranslation[SDL_NUM_SCANCODES];
 #endif
 static int32_t buildkeytranslationtable(void);
