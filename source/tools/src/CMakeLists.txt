@@ -1,0 +1,24 @@
+set(targets
+    arttool.cpp
+    bin2c.cpp
+    bsuite.cpp
+    cacheinfo.cpp
+    compat_tools.cpp
+    enumdisplay.cpp
+    generateicon.cpp
+    getdxdidf.cpp
+    givedepth.cpp
+    ivfrate.cpp
+    kextract.cpp
+    kgroup.cpp
+    kmd2tool.cpp
+    makesdlkeytrans.cpp
+    map2stl.cpp
+    md2tool.cpp
+    mkpalette.cpp
+    transpal.cpp
+    unpackssi.cpp
+    vgafont.cpp
+    wad2art.cpp
+    wad2map.cpp
+)
