@@ -40,7 +40,8 @@ apps/
 *.ppc
 /*.app
 
-*.log
+# *.log
+sources/**/*.log
 *.cache
 *.cfg
 textures
@@ -87,3 +88,6 @@ project.xcworkspace/
 .DS_Store
 ._*
 /source/voidwrap/sdk/
+
+# cmake
+/build/
