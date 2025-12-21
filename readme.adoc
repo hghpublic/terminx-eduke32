@@ -1,0 +1,62 @@
+= EDuke32
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+== EDuke32
+
+https://wiki.eduke32.com/
+
+https://voidpoint.io/terminx/eduke32
+
+Clone with HTTPS::
+https://voidpoint.io/terminx/eduke32.git
+
+https://github.com/hghpublic/terminx-eduke32
+
+== Building EDuke32 on Linux
+
+https://wiki.eduke32.com/wiki/Building_EDuke32_on_Linux
+
+make::
++
+[source, shell]
+----
+❯ make > dev/logs/make.log 2>&1
+----
+
+disable pretty output to reduce log size in `Common.mak`::
++
+----
+##### Makefile meta-settings
+
+#PRETTY_OUTPUT := 1
+PRETTY_OUTPUT := 0
+----
+
+cmake::
++
+[source, shell]
+----
+❯ ./build.sh > dev/logs/cmake.log 2>&1
+----
+
+=== deps
+
+----
+libvpx-dev
+----
+
+== High Resource Packs
+
+https://hrp.duke4.net/
+
+https://hrp.duke4.net/download.php
+
+=== Duke3D Bonus Files
+
+Widescreen Fixes for Duke Nukem 3D::
+https://github.com/NightFright2k19/duke3d_widefix
