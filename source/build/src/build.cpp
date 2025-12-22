@@ -10008,7 +10008,7 @@ static int32_t menuselect(void)
 {
     int32_t listsize;
     int32_t i;
-    char ch, buffer[96];
+    char ch, buffer[96+256];
 
     Bstrcpy(selectedboardfilename, g_oldpath);
     tweak_sboardfilename();

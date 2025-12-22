@@ -654,10 +654,10 @@ void LoadCustomInfoFromScript(const char *filename)
                 case CM_BESTTIME:
                 {
                     int n;
-                    char s[10];
+                    char s[10+64];
                     if (scriptfile_getnumber(script, &n)) break;
 
-                    Bsnprintf(s, 10, "%d : %02d", n/60, n%60);
+                    Bsnprintf(s, sizeof(s), "%d : %02d", n/60, n%60);
                     //Xfree(custommaps[curmap].BestTime);
                     custommaps[curmap].BestTime = Xstrdup(s);
                     LevelInfo[curmap].BestTime = custommaps[curmap].BestTime;
@@ -666,10 +666,10 @@ void LoadCustomInfoFromScript(const char *filename)
                 case CM_PARTIME:
                 {
                     int n;
-                    char s[10];
+                    char s[10+64];
                     if (scriptfile_getnumber(script, &n)) break;
 
-                    Bsnprintf(s, 10, "%d : %02d", n/60, n%60);
+                    Bsnprintf(s, sizeof(s), "%d : %02d", n/60, n%60);
                     //Xfree(custommaps[curmap].ParTime);
                     custommaps[curmap].ParTime = Xstrdup(s);
                     LevelInfo[curmap].ParTime = custommaps[curmap].ParTime;

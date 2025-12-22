@@ -395,7 +395,7 @@ void G_LoadGroups(int32_t autoload)
         addsearchpath(g_rootDir);
         //        addsearchpath(mod_dir);
 
-        char path[BMAX_PATH];
+        char path[BMAX_PATH+256];
 
         if (buildvfs_getcwd(cwd, BMAX_PATH))
         {

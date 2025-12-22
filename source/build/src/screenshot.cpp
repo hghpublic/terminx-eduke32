@@ -61,7 +61,7 @@ static void screencapture_end(char *fn, buildvfs_FILE * filptr)
 
 static char* getScreenshotPath(const char* filename)
 {
-    char fn[BMAX_PATH];
+    char fn[BMAX_PATH+8];
 
     if (screenshot_dir[0] != 0)
     {

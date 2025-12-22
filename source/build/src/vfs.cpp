@@ -876,7 +876,7 @@ buildvfs_kfd kopen4loadfrommod(const char *fileName, char searchfirst)
 
     if (g_modDir[0] != '/' || g_modDir[1] != 0)
     {
-        static char staticFileName[BMAX_PATH];
+        static char staticFileName[BMAX_PATH+8];
         Bsnprintf(staticFileName, sizeof(staticFileName), "%s/%s", g_modDir, fileName);
         kFile = kopen4load(staticFileName, searchfirst);
     }
