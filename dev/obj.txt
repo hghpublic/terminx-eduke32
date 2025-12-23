@@ -1,0 +1,284 @@
+./obj/
+├── audiolib
+│   ├── driver_adlib.o
+│   ├── driver_alsa.o
+│   ├── driver_sdl.o
+│   ├── driver_sf2.o
+│   ├── drivers.o
+│   ├── flac.o
+│   ├── formats.o
+│   ├── fx_man.o
+│   ├── gmtimbre.o
+│   ├── midi.o
+│   ├── mix.o
+│   ├── mixst.o
+│   ├── multivoc.o
+│   ├── music.o
+│   ├── opl3.o
+│   ├── pitch.o
+│   ├── vorbis.o
+│   ├── xa.o
+│   └── xmp.o
+├── build
+│   ├── 2d.o
+│   ├── a-c.o
+│   ├── animvpx.o
+│   ├── baselayer.o
+│   ├── build.o
+│   ├── cache1d.o
+│   ├── clip.o
+│   ├── colmatch.o
+│   ├── common.o
+│   ├── communityapi.o
+│   ├── compat.o
+│   ├── config.o
+│   ├── cpuid.o
+│   ├── crc32.o
+│   ├── defs.o
+│   ├── dxtfilter.o
+│   ├── enet.o
+│   ├── engine.o
+│   ├── fix16.o
+│   ├── glbuild.o
+│   ├── glsurface.o
+│   ├── hash.o
+│   ├── hightile.o
+│   ├── klzw.o
+│   ├── kplib.o
+│   ├── loguru.o
+│   ├── lz4.o
+│   ├── md4.o
+│   ├── mdsprite.o
+│   ├── mhk.o
+│   ├── miniz.o
+│   ├── miniz_tdef.o
+│   ├── miniz_tinfl.o
+│   ├── mmulti.o
+│   ├── mutex.o
+│   ├── osd.o
+│   ├── palette.o
+│   ├── pngwrite.o
+│   ├── polymer.o
+│   ├── polymost1Frag.o
+│   ├── polymost1Vert.o
+│   ├── polymost.o
+│   ├── pragmas.o
+│   ├── rev.o
+│   ├── screenshot.o
+│   ├── screentext.o
+│   ├── scriptfile.o
+│   ├── sdlayer.o
+│   ├── sjson.o
+│   ├── smalltextfont.o
+│   ├── smmalloc_generic.o
+│   ├── smmalloc.o
+│   ├── smmalloc_tls.o
+│   ├── softsurface.o
+│   ├── texcache.o
+│   ├── textfont.o
+│   ├── tilepacker.o
+│   ├── tiles.o
+│   ├── timer.o
+│   ├── vfs.o
+│   ├── voxmodel.o
+│   └── xxhash.o
+├── duke3d
+│   ├── actors.o
+│   ├── anim.o
+│   ├── astub.o
+│   ├── build_icon.o
+│   ├── cheats.o
+│   ├── cmdline.o
+│   ├── common.o
+│   ├── config.o
+│   ├── demo.o
+│   ├── dnames.o
+│   ├── gamedef.o
+│   ├── gameexec.o
+│   ├── game_icon.o
+│   ├── game.o
+│   ├── gamestructures.o
+│   ├── gamevars.o
+│   ├── global.o
+│   ├── grpscan.o
+│   ├── input.o
+│   ├── m32common.o
+│   ├── m32def.o
+│   ├── m32exec.o
+│   ├── m32vars.o
+│   ├── menus.o
+│   ├── network.o
+│   ├── osdcmds.o
+│   ├── osdfuncs.o
+│   ├── player.o
+│   ├── premap.o
+│   ├── rts.o
+│   ├── savegame.o
+│   ├── sbar.o
+│   ├── screens.o
+│   ├── sector.o
+│   ├── sounds_mapster32.o
+│   ├── sounds.o
+│   ├── text.o
+│   └── winbits.o
+├── eduke32_dumpltrans0.o
+├── eduke32_dumpltrans10.o
+├── eduke32_dumpltrans11.o
+├── eduke32_dumpltrans12.o
+├── eduke32_dumpltrans13.o
+├── eduke32_dumpltrans14.o
+├── eduke32_dumpltrans15.o
+├── eduke32_dumpltrans16.o
+├── eduke32_dumpltrans17.o
+├── eduke32_dumpltrans18.o
+├── eduke32_dumpltrans19.o
+├── eduke32_dumpltrans1.o
+├── eduke32_dumpltrans20.o
+├── eduke32_dumpltrans21.o
+├── eduke32_dumpltrans22.o
+├── eduke32_dumpltrans23.o
+├── eduke32_dumpltrans24.o
+├── eduke32_dumpltrans25.o
+├── eduke32_dumpltrans26.o
+├── eduke32_dumpltrans27.o
+├── eduke32_dumpltrans28.o
+├── eduke32_dumpltrans29.o
+├── eduke32_dumpltrans2.o
+├── eduke32_dumpltrans30.o
+├── eduke32_dumpltrans31.o
+├── eduke32_dumpltrans32.o
+├── eduke32_dumpltrans33.o
+├── eduke32_dumpltrans34.o
+├── eduke32_dumpltrans35.o
+├── eduke32_dumpltrans36.o
+├── eduke32_dumpltrans37.o
+├── eduke32_dumpltrans38.o
+├── eduke32_dumpltrans39.o
+├── eduke32_dumpltrans3.o
+├── eduke32_dumpltrans40.o
+├── eduke32_dumpltrans41.o
+├── eduke32_dumpltrans42.o
+├── eduke32_dumpltrans43.o
+├── eduke32_dumpltrans44.o
+├── eduke32_dumpltrans45.o
+├── eduke32_dumpltrans46.o
+├── eduke32_dumpltrans47.o
+├── eduke32_dumpltrans48.o
+├── eduke32_dumpltrans49.o
+├── eduke32_dumpltrans4.o
+├── eduke32_dumpltrans50.o
+├── eduke32_dumpltrans51.o
+├── eduke32_dumpltrans52.o
+├── eduke32_dumpltrans53.o
+├── eduke32_dumpltrans5.o
+├── eduke32_dumpltrans6.o
+├── eduke32_dumpltrans7.o
+├── eduke32_dumpltrans8.o
+├── eduke32_dumpltrans9.o
+├── glad
+│   └── glad.o
+├── imgui
+│   ├── imgui_demo.o
+│   ├── imgui_draw.o
+│   ├── imgui_impl_opengl3.o
+│   ├── imgui_impl_sdl2.o
+│   ├── imgui.o
+│   ├── imgui_tables.o
+│   └── imgui_widgets.o
+├── libxmp-lite
+│   ├── common.o
+│   ├── control.o
+│   ├── dataio.o
+│   ├── effects.o
+│   ├── filter.o
+│   ├── format.o
+│   ├── hio.o
+│   ├── it_load.o
+│   ├── itsex.o
+│   ├── lfo.o
+│   ├── load_helpers.o
+│   ├── load.o
+│   ├── memio.o
+│   ├── mix_all.o
+│   ├── mixer.o
+│   ├── mod_load.o
+│   ├── mtm_load.o
+│   ├── period.o
+│   ├── player.o
+│   ├── read_event.o
+│   ├── s3m_load.o
+│   ├── sample.o
+│   ├── scan.o
+│   ├── smix.o
+│   ├── virtual.o
+│   ├── win32.o
+│   └── xm_load.o
+├── mact
+│   ├── animlib.o
+│   ├── control.o
+│   ├── joystick.o
+│   ├── keyboard.o
+│   └── scriplib.o
+├── mapster32_dumpltrans0.o
+├── mapster32_dumpltrans10.o
+├── mapster32_dumpltrans11.o
+├── mapster32_dumpltrans12.o
+├── mapster32_dumpltrans13.o
+├── mapster32_dumpltrans14.o
+├── mapster32_dumpltrans15.o
+├── mapster32_dumpltrans16.o
+├── mapster32_dumpltrans17.o
+├── mapster32_dumpltrans18.o
+├── mapster32_dumpltrans19.o
+├── mapster32_dumpltrans1.o
+├── mapster32_dumpltrans20.o
+├── mapster32_dumpltrans21.o
+├── mapster32_dumpltrans22.o
+├── mapster32_dumpltrans23.o
+├── mapster32_dumpltrans24.o
+├── mapster32_dumpltrans25.o
+├── mapster32_dumpltrans26.o
+├── mapster32_dumpltrans27.o
+├── mapster32_dumpltrans28.o
+├── mapster32_dumpltrans29.o
+├── mapster32_dumpltrans2.o
+├── mapster32_dumpltrans30.o
+├── mapster32_dumpltrans31.o
+├── mapster32_dumpltrans32.o
+├── mapster32_dumpltrans33.o
+├── mapster32_dumpltrans34.o
+├── mapster32_dumpltrans35.o
+├── mapster32_dumpltrans36.o
+├── mapster32_dumpltrans37.o
+├── mapster32_dumpltrans38.o
+├── mapster32_dumpltrans39.o
+├── mapster32_dumpltrans3.o
+├── mapster32_dumpltrans40.o
+├── mapster32_dumpltrans41.o
+├── mapster32_dumpltrans42.o
+├── mapster32_dumpltrans4.o
+├── mapster32_dumpltrans5.o
+├── mapster32_dumpltrans6.o
+├── mapster32_dumpltrans7.o
+├── mapster32_dumpltrans8.o
+├── mapster32_dumpltrans9.o
+└── mimalloc
+    ├── alloc-aligned.o
+    ├── alloc.o
+    ├── alloc-posix.o
+    ├── arena.o
+    ├── bitmap.o
+    ├── heap.o
+    ├── init.o
+    ├── libc.o
+    ├── options.o
+    ├── os.o
+    ├── page.o
+    ├── prim
+    │   └── prim.o
+    ├── random.o
+    ├── segment-map.o
+    ├── segment.o
+    └── stats.o
+
+10 directories, 272 files

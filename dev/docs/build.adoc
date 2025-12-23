@@ -1,0 +1,20 @@
+= build
+
+
+----
+❯ make > dev/logs/make.log 2>&1
+❯ tree ./obj/ -P "*.o" --prune > obj.txt
+----
+
+----
+source/build/include/baselayer.h:extern int app_main(int argc, char const * const * argv);
+source/build/src/build.cpp:int app_main(int argc, char const* const* argv)
+source/build/src/sdlayer.cpp:    int const r = app_main(argc, argv);
+source/build/src/winlayer.cpp:    r = app_main(_buildargc, _buildargv);
+source/duke3d/src/game.cpp:int app_main(int argc, char const* const* argv)
+source/imgui/src/imgui_demo.cpp:    static bool show_app_main_menu_bar = false;
+source/imgui/src/imgui_demo.cpp:    if (show_app_main_menu_bar)       ShowExampleAppMainMenuBar();
+source/imgui/src/imgui_demo.cpp:            ImGui::MenuItem("Main menu bar", NULL, &show_app_main_menu_bar);
+source/kenbuild/src/game.cpp:int32_t app_main(int32_t argc, char const * const * argv)
+source/sw/src/game.cpp:int32_t app_main(int32_t argc, char const * const * argv)
+----

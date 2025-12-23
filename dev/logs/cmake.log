@@ -1,0 +1,646 @@
+[H[2J[3J-- Running vcpkg install
+Detecting compiler hash for triplet arm64-linux...
+Compiler found: /usr/bin/c++
+The following packages will be built and installed:
+  * dbus[core,systemd]:arm64-linux@1.16.2#1
+  * expat:arm64-linux@2.7.1
+  * gperf:arm64-linux@3.3
+  * libcap:arm64-linux@2.73#1
+  * liblzma:arm64-linux@5.8.1
+  * libmount:arm64-linux@2.40
+  * libsystemd:arm64-linux@257.8
+  * libxcrypt:arm64-linux@4.4.38#1
+  * lz4:arm64-linux@1.10.0
+    sdl2[core,dbus,ibus,wayland,x11]:arm64-linux@2.32.8
+  * vcpkg-cmake:arm64-linux@2024-04-23
+  * vcpkg-cmake-config:arm64-linux@2024-05-23
+  * vcpkg-cmake-get-vars:arm64-linux@2025-05-29
+  * vcpkg-make:arm64-linux@2025-08-21
+  * vcpkg-tool-meson:arm64-linux@1.9.0
+  * zstd:arm64-linux@1.5.7
+Additional packages (*) will be modified to complete this operation.
+Restored 16 package(s) from /home/vscode/.cache/vcpkg/archives in 104 ms. Use --debug to see more details.
+Installing 1/16 vcpkg-cmake-config:arm64-linux@2024-05-23...
+Elapsed time to handle vcpkg-cmake-config:arm64-linux: 3.74 ms
+vcpkg-cmake-config:arm64-linux package ABI: 7c5ad9034038375d1e4b709321fb260d0860a4cd315fc67f6df1a997249fdd89
+Installing 2/16 vcpkg-cmake:arm64-linux@2024-04-23...
+Elapsed time to handle vcpkg-cmake:arm64-linux: 3.77 ms
+vcpkg-cmake:arm64-linux package ABI: 4d2a94796ef3b58526ca806f7f4e2cd7226e6b056425cff5702a1b78c6d7988a
+Installing 3/16 zstd:arm64-linux@1.5.7...
+Elapsed time to handle zstd:arm64-linux: 11.9 ms
+zstd:arm64-linux package ABI: ac184f0f25fe0f0cae43332b853e2099da13659831f8d269adc8c06d4b519268
+Installing 4/16 vcpkg-cmake-get-vars:arm64-linux@2025-05-29...
+Elapsed time to handle vcpkg-cmake-get-vars:arm64-linux: 3.44 ms
+vcpkg-cmake-get-vars:arm64-linux package ABI: 7456cf8f4d0e351a7a28f7816835a9611cb9eda529931c27e07ab24b6ecf948e
+Installing 5/16 vcpkg-tool-meson:arm64-linux@1.9.0...
+Elapsed time to handle vcpkg-tool-meson:arm64-linux: 4.46 ms
+vcpkg-tool-meson:arm64-linux package ABI: 8d70a120a584d3f367617fe384f060004021118c345fe55ed4b90bf2247abea6
+Installing 6/16 lz4:arm64-linux@1.10.0...
+Elapsed time to handle lz4:arm64-linux: 8.77 ms
+lz4:arm64-linux package ABI: c5b39456bb022f19b36aff19bbce967798bc93afd19d0627f2813945ccc42181
+Installing 7/16 vcpkg-make:arm64-linux@2025-08-21...
+Elapsed time to handle vcpkg-make:arm64-linux: 6.8 ms
+vcpkg-make:arm64-linux package ABI: 2b4b5cda583967cfec9a25e329afbe5153917ec6721a79a194bcdbcb8d858222
+Installing 8/16 libxcrypt:arm64-linux@4.4.38#1...
+Elapsed time to handle libxcrypt:arm64-linux: 8.41 ms
+libxcrypt:arm64-linux package ABI: 33c13b574ddaaa6fffdb5ecb60032ee25a69cf3c049fc9aa97bf2db24184dfed
+Installing 9/16 libmount:arm64-linux@2.40...
+Elapsed time to handle libmount:arm64-linux: 10.7 ms
+libmount:arm64-linux package ABI: f5cfaba64b70fdee5535e75b0bf1ecb16a20fe96f6edb1398f4bfac2cef4830b
+Installing 10/16 liblzma:arm64-linux@5.8.1...
+Elapsed time to handle liblzma:arm64-linux: 17.6 ms
+liblzma:arm64-linux package ABI: 929c6c675eb414761b5ed446b00b4c9ed71fe440d0be9c3095a13064c17bcbf4
+Installing 11/16 libcap:arm64-linux@2.73#1...
+Elapsed time to handle libcap:arm64-linux: 6.89 ms
+libcap:arm64-linux package ABI: 69fcf4c63a559920c99dfe04606eace5ef64d7302edf32129aa31aa8d9729c4e
+Installing 12/16 gperf:arm64-linux@3.3...
+Elapsed time to handle gperf:arm64-linux: 4.47 ms
+gperf:arm64-linux package ABI: 5674096c808b886a47e32a49edbd3ebac320c531296a347ba216d78b0570672f
+Installing 13/16 libsystemd:arm64-linux@257.8...
+Elapsed time to handle libsystemd:arm64-linux: 19.7 ms
+libsystemd:arm64-linux package ABI: 82f54979026b1ea943a3d96eaec76813db7dcd598f240518e70e5ac9b0dfd64d
+Installing 14/16 expat:arm64-linux@2.7.1...
+Elapsed time to handle expat:arm64-linux: 7.88 ms
+expat:arm64-linux package ABI: 95f56145e2fd815db2d1c0abb4e5e175b3f9e395095e6d1a1667e88c5f1b5e10
+Installing 15/16 dbus[core,systemd]:arm64-linux@1.16.2#1...
+Elapsed time to handle dbus:arm64-linux: 68.8 ms
+dbus:arm64-linux package ABI: f38deb117e58ab7601fb3849d478025193cc8a1188eababbb11f4fe4bfb2c90a
+Installing 16/16 sdl2[core,dbus,ibus,wayland,x11]:arm64-linux@2.32.8...
+Elapsed time to handle sdl2:arm64-linux: 46.2 ms
+sdl2:arm64-linux package ABI: e4bbe0182031e61874bb203d31e98a0131e6226364b98d8ba7de2dfb783cf134
+Installed contents are licensed to you by owners. Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Some packages did not declare an SPDX license. Check the `copyright` file for each package for more information about their licensing.
+Packages installed in this vcpkg installation declare the following licenses:
+(AFL-2.1 OR GPL-2.0-or-later)
+(BSD-3-Clause OR GPL-2.0-only)
+Apache-2.0
+BSD-2-Clause
+GPL-3.0-or-later
+MIT
+Zlib
+sdl2 provides CMake targets:
+
+    find_package(SDL2 CONFIG REQUIRED)
+    target_link_libraries(main
+        PRIVATE
+        $<TARGET_NAME_IF_EXISTS:SDL2::SDL2main>
+        $<IF:$<TARGET_EXISTS:SDL2::SDL2>,SDL2::SDL2,SDL2::SDL2-static>
+    )
+
+All requested installations completed successfully in: 241 ms
+-- Running vcpkg install - done
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- SDL2_VERSION 2.32.8
+-- SDL2_VERSION_MAJOR: 2
+-- SDL2_VERSION_MINOR: 32
+-- The C compiler identification is GNU 14.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- SDL2_VERSION 2.32.8
+-- SDL2_VERSION_MAJOR: 2
+-- SDL2_VERSION_MINOR: 32
+-- SDL2_VERSION 2.32.8
+-- SDL2_VERSION_MAJOR: 2
+-- SDL2_VERSION_MINOR: 32
+-- SDL2_VERSION 2.32.8
+-- SDL2_VERSION_MAJOR: 2
+-- SDL2_VERSION_MINOR: 32
+-- SDL2_VERSION 2.32.8
+-- SDL2_VERSION_MAJOR: 2
+-- SDL2_VERSION_MINOR: 32
+-- SDL2_VERSION 2.32.8
+-- SDL2_VERSION_MAJOR: 2
+-- SDL2_VERSION_MINOR: 32
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /workspaces/terminx-eduke32/build
+[1/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/music.cpp for CXX dependencies
+[2/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/pitch.cpp for CXX dependencies
+[3/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/driver_alsa.cpp for CXX dependencies
+[4/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/opl3.cpp for CXX dependencies
+[5/466] Scanning /workspaces/terminx-eduke32/source/build/src/animvpx.cpp for CXX dependencies
+[6/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/gmtimbre.cpp for CXX dependencies
+[7/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/mixst.cpp for CXX dependencies
+[8/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/drivers.cpp for CXX dependencies
+[9/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/flac.cpp for CXX dependencies
+[10/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/formats.cpp for CXX dependencies
+[11/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/mix.cpp for CXX dependencies
+[12/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/driver_sf2.cpp for CXX dependencies
+[13/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/driver_sdl.cpp for CXX dependencies
+[14/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/xa.cpp for CXX dependencies
+[15/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/vorbis.cpp for CXX dependencies
+[16/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/multivoc.cpp for CXX dependencies
+[17/466] Scanning /workspaces/terminx-eduke32/source/build/src/dxtfilter.cpp for CXX dependencies
+[18/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/fx_man.cpp for CXX dependencies
+[19/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/midi.cpp for CXX dependencies
+[20/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/driver_adlib.cpp for CXX dependencies
+[21/466] Scanning /workspaces/terminx-eduke32/source/build/src/2d.cpp for CXX dependencies
+[22/466] Scanning /workspaces/terminx-eduke32/source/build/src/a-c.cpp for CXX dependencies
+[23/466] Scanning /workspaces/terminx-eduke32/source/build/src/colmatch.cpp for CXX dependencies
+[24/466] Scanning /workspaces/terminx-eduke32/source/build/src/cpuid.cpp for CXX dependencies
+[25/466] Scanning /workspaces/terminx-eduke32/source/build/src/compat.cpp for CXX dependencies
+[26/466] Scanning /workspaces/terminx-eduke32/source/build/src/clip.cpp for CXX dependencies
+[27/466] Scanning /workspaces/terminx-eduke32/source/build/src/crc32.cpp for CXX dependencies
+[28/466] Scanning /workspaces/terminx-eduke32/source/build/src/mdsprite.cpp for CXX dependencies
+[29/466] Scanning /workspaces/terminx-eduke32/source/build/src/common.cpp for CXX dependencies
+[30/466] Scanning /workspaces/terminx-eduke32/source/build/src/config.cpp for CXX dependencies
+[31/466] Scanning /workspaces/terminx-eduke32/source/build/src/baselayer.cpp for CXX dependencies
+[32/466] Scanning /workspaces/terminx-eduke32/source/build/src/cache1d.cpp for CXX dependencies
+[33/466] Scanning /workspaces/terminx-eduke32/source/build/src/enet.cpp for CXX dependencies
+[34/466] Scanning /workspaces/terminx-eduke32/source/build/src/build.cpp for CXX dependencies
+[35/466] Scanning /workspaces/terminx-eduke32/source/build/src/polymer.cpp for CXX dependencies
+[36/466] Scanning /workspaces/terminx-eduke32/source/build/src/defs.cpp for CXX dependencies
+[37/466] Scanning /workspaces/terminx-eduke32/source/audiolib/src/xmp.cpp for CXX dependencies
+[38/466] Generating CXX dyndep file source/audiolib/src/CMakeFiles/audiolib.dir/CXX.dd
+[39/466] Scanning /workspaces/terminx-eduke32/source/build/src/fix16.cpp for CXX dependencies
+[40/466] Scanning /workspaces/terminx-eduke32/source/build/src/engine.cpp for CXX dependencies
+[41/466] Scanning /workspaces/terminx-eduke32/source/build/src/glbuild.cpp for CXX dependencies
+[42/466] Scanning /workspaces/terminx-eduke32/source/build/src/hightile.cpp for CXX dependencies
+[43/466] Scanning /workspaces/terminx-eduke32/source/build/src/kplib.cpp for CXX dependencies
+[44/466] Scanning /workspaces/terminx-eduke32/source/build/src/hash.cpp for CXX dependencies
+[45/466] Scanning /workspaces/terminx-eduke32/source/build/src/mhk.cpp for CXX dependencies
+[46/466] Scanning /workspaces/terminx-eduke32/source/build/src/klzw.cpp for CXX dependencies
+[47/466] Scanning /workspaces/terminx-eduke32/source/build/src/md4.cpp for CXX dependencies
+[48/466] Scanning /workspaces/terminx-eduke32/source/build/src/pngwrite.cpp for CXX dependencies
+[49/466] Scanning /workspaces/terminx-eduke32/source/build/src/mutex.cpp for CXX dependencies
+[50/466] Scanning /workspaces/terminx-eduke32/source/build/src/loguru.cpp for CXX dependencies
+[51/466] Scanning /workspaces/terminx-eduke32/source/build/src/polymost.cpp for CXX dependencies
+[52/466] Scanning /workspaces/terminx-eduke32/source/build/src/osd.cpp for CXX dependencies
+[53/466] Scanning /workspaces/terminx-eduke32/source/build/src/palette.cpp for CXX dependencies
+[54/466] Scanning /workspaces/terminx-eduke32/source/build/src/pragmas.cpp for CXX dependencies
+[55/466] Scanning /workspaces/terminx-eduke32/source/build/src/mmulti.cpp for CXX dependencies
+[56/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/driver_alsa.cpp.o
+[57/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/driver_adlib.cpp.o
+[58/466] Scanning /workspaces/terminx-eduke32/source/build/src/rev.cpp for CXX dependencies
+[59/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/driver_sdl.cpp.o
+[60/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/driver_sf2.cpp.o
+[61/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/drivers.cpp.o
+[62/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/gmtimbre.cpp.o
+[63/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/flac.cpp.o
+[64/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/formats.cpp.o
+[65/466] Scanning /workspaces/terminx-eduke32/source/build/src/smalltextfont.cpp for CXX dependencies
+[66/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/midi.cpp.o
+[67/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/opl3.cpp.o
+[68/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/music.cpp.o
+[69/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/pitch.cpp.o
+[70/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/mixst.cpp.o
+[71/466] Scanning /workspaces/terminx-eduke32/source/build/src/texcache.cpp for CXX dependencies
+[72/466] Scanning /workspaces/terminx-eduke32/source/build/src/textfont.cpp for CXX dependencies
+[73/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/mix.cpp.o
+[74/466] Scanning /workspaces/terminx-eduke32/source/build/src/sdlkeytrans.cpp for CXX dependencies
+[75/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/fx_man.cpp.o
+[76/466] Scanning /workspaces/terminx-eduke32/source/build/src/voxmodel.cpp for CXX dependencies
+[77/466] Scanning /workspaces/terminx-eduke32/source/build/src/screenshot.cpp for CXX dependencies
+[78/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/multivoc.cpp.o
+[79/466] Building C object source/build/src/CMakeFiles/build.dir/miniz.c.o
+[80/466] Scanning /workspaces/terminx-eduke32/source/build/src/scriptfile.cpp for CXX dependencies
+[81/466] Scanning /workspaces/terminx-eduke32/source/build/src/sjson.cpp for CXX dependencies
+[82/466] Scanning /workspaces/terminx-eduke32/source/build/src/smmalloc_tls.cpp for CXX dependencies
+[83/466] Scanning /workspaces/terminx-eduke32/source/build/src/screentext.cpp for CXX dependencies
+[84/466] Scanning /workspaces/terminx-eduke32/source/build/src/smmalloc.cpp for CXX dependencies
+[85/466] Building C object source/build/src/CMakeFiles/build.dir/lz4.c.o
+[86/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/xa.cpp.o
+[87/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/vorbis.cpp.o
+[88/466] Building CXX object source/audiolib/src/CMakeFiles/audiolib.dir/xmp.cpp.o
+[89/466] Building C object source/build/src/CMakeFiles/build.dir/miniz_tdef.c.o
+[90/466] Scanning /workspaces/terminx-eduke32/source/build/src/smmalloc_generic.cpp for CXX dependencies
+[91/466] Building C object source/build/src/CMakeFiles/build.dir/miniz_tinfl.c.o
+[92/466] Scanning /workspaces/terminx-eduke32/source/build/src/sdlayer.cpp for CXX dependencies
+[93/466] Scanning /workspaces/terminx-eduke32/source/build/src/tilepacker.cpp for CXX dependencies
+[94/466] Linking CXX static library source/audiolib/src/libaudiolib.a
+[95/466] Scanning /workspaces/terminx-eduke32/source/build/src/tiles.cpp for CXX dependencies
+[96/466] Building C object source/build/src/CMakeFiles/build.dir/xxhash.c.o
+[97/466] Scanning /workspaces/terminx-eduke32/source/build/src/softsurface.cpp for CXX dependencies
+[98/466] Scanning /workspaces/terminx-eduke32/source/build/src/vfs.cpp for CXX dependencies
+[99/466] Scanning /workspaces/terminx-eduke32/source/build/src/timer.cpp for CXX dependencies
+[100/466] Generating CXX dyndep file source/build/src/CMakeFiles/build.dir/CXX.dd
+[101/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/common.cpp for CXX dependencies
+[102/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/dnames.cpp for CXX dependencies
+[103/466] Building CXX object source/build/src/CMakeFiles/build.dir/animvpx.cpp.o
+[104/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/gamedef.cpp for CXX dependencies
+[105/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/demo.cpp for CXX dependencies
+[106/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/global.cpp for CXX dependencies
+[107/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/gameexec.cpp for CXX dependencies
+[108/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/config.cpp for CXX dependencies
+[109/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/anim.cpp for CXX dependencies
+[110/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/gamevars.cpp for CXX dependencies
+[111/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/grpscan.cpp for CXX dependencies
+[112/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/gamestructures.cpp for CXX dependencies
+[113/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/actors.cpp for CXX dependencies
+[114/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/game.cpp for CXX dependencies
+[115/466] Building CXX object source/build/src/CMakeFiles/build.dir/dxtfilter.cpp.o
+[116/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/cheats.cpp for CXX dependencies
+[117/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/input.cpp for CXX dependencies
+[118/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/cmdline.cpp for CXX dependencies
+[119/466] Building CXX object source/build/src/CMakeFiles/build.dir/2d.cpp.o
+[120/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/m32common.cpp for CXX dependencies
+[121/466] Building CXX object source/build/src/CMakeFiles/build.dir/a-c.cpp.o
+[122/466] Building CXX object source/build/src/CMakeFiles/build.dir/colmatch.cpp.o
+[123/466] Building CXX object source/build/src/CMakeFiles/build.dir/crc32.cpp.o
+[124/466] Building CXX object source/build/src/CMakeFiles/build.dir/common.cpp.o
+[125/466] Building CXX object source/build/src/CMakeFiles/build.dir/cache1d.cpp.o
+[126/466] Building CXX object source/build/src/CMakeFiles/build.dir/cpuid.cpp.o
+[127/466] Building CXX object source/build/src/CMakeFiles/build.dir/compat.cpp.o
+[128/466] Building CXX object source/build/src/CMakeFiles/build.dir/mdsprite.cpp.o
+[129/466] Building CXX object source/build/src/CMakeFiles/build.dir/enet.cpp.o
+[130/466] Building CXX object source/build/src/CMakeFiles/build.dir/defs.cpp.o
+[131/466] Building CXX object source/build/src/CMakeFiles/build.dir/fix16.cpp.o
+[132/466] Building CXX object source/build/src/CMakeFiles/build.dir/clip.cpp.o
+[133/466] Building CXX object source/build/src/CMakeFiles/build.dir/polymer.cpp.o
+[134/466] Building CXX object source/build/src/CMakeFiles/build.dir/glbuild.cpp.o
+[135/466] Building CXX object source/build/src/CMakeFiles/build.dir/hash.cpp.o
+[136/466] Building CXX object source/build/src/CMakeFiles/build.dir/rev.cpp.o
+[137/466] Building CXX object source/build/src/CMakeFiles/build.dir/config.cpp.o
+[138/466] Building CXX object source/build/src/CMakeFiles/build.dir/engine.cpp.o
+/workspaces/terminx-eduke32/source/build/src/engine.cpp: In function ‘void classicScanSector(int16_t)’:
+/workspaces/terminx-eduke32/source/build/src/engine.cpp:1838:110: warning: bitwise operation between different enumeration types ‘<unnamed enum>’ and ‘<unnamed enum>’ [-Wdeprecated-enum-enum-conversion]
+ 1838 |                 if ((spr->cstat & (CSTAT_SPRITE_ONE_SIDED|CSTAT_SPRITE_ALIGNMENT)) != (CSTAT_SPRITE_ONE_SIDED|CSTAT_SPRITE_ALIGNMENT_WALL) || dmulscale6(sintable[(spr->ang+512)&2047],-s.x, sintable[spr->ang&2047],-s.y) > 0)
+      |                                                                                        ~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[139/466] Building CXX object source/build/src/CMakeFiles/build.dir/hightile.cpp.o
+[140/466] Building CXX object source/build/src/CMakeFiles/build.dir/build.cpp.o
+/workspaces/terminx-eduke32/source/build/src/build.cpp: In function ‘void editinput()’:
+/workspaces/terminx-eduke32/source/build/src/build.cpp:1555:66: warning: bitwise operation between different enumeration types ‘<unnamed enum>’ and ‘<unnamed enum>’ [-Wdeprecated-enum-enum-conversion]
+ 1555 |                         sprite[i].cstat |= CSTAT_SPRITE_ONE_SIDED|CSTAT_SPRITE_ALIGNMENT_WALL;
+      |                                            ~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[141/466] Building CXX object source/build/src/CMakeFiles/build.dir/baselayer.cpp.o
+[142/466] Building CXX object source/build/src/CMakeFiles/build.dir/klzw.cpp.o
+[143/466] Building CXX object source/build/src/CMakeFiles/build.dir/smalltextfont.cpp.o
+[144/466] Building CXX object source/build/src/CMakeFiles/build.dir/sdlkeytrans.cpp.o
+[145/466] Building CXX object source/build/src/CMakeFiles/build.dir/md4.cpp.o
+[146/466] Building CXX object source/build/src/CMakeFiles/build.dir/kplib.cpp.o
+[147/466] Building CXX object source/build/src/CMakeFiles/build.dir/mutex.cpp.o
+[148/466] Building CXX object source/build/src/CMakeFiles/build.dir/texcache.cpp.o
+[149/466] Building CXX object source/build/src/CMakeFiles/build.dir/textfont.cpp.o
+[150/466] Building CXX object source/build/src/CMakeFiles/build.dir/mhk.cpp.o
+[151/466] Building CXX object source/build/src/CMakeFiles/build.dir/pngwrite.cpp.o
+[152/466] Building CXX object source/build/src/CMakeFiles/build.dir/palette.cpp.o
+[153/466] Building CXX object source/build/src/CMakeFiles/build.dir/osd.cpp.o
+[154/466] Building CXX object source/build/src/CMakeFiles/build.dir/voxmodel.cpp.o
+[155/466] Building CXX object source/build/src/CMakeFiles/build.dir/polymost.cpp.o
+[156/466] Building CXX object source/build/src/CMakeFiles/build.dir/pragmas.cpp.o
+[157/466] Building CXX object source/build/src/CMakeFiles/build.dir/mmulti.cpp.o
+[158/466] Building CXX object source/build/src/CMakeFiles/build.dir/scriptfile.cpp.o
+[159/466] Building CXX object source/build/src/CMakeFiles/build.dir/screenshot.cpp.o
+[160/466] Building CXX object source/build/src/CMakeFiles/build.dir/smmalloc.cpp.o
+[161/466] Building CXX object source/build/src/CMakeFiles/build.dir/sjson.cpp.o
+[162/466] Building CXX object source/build/src/CMakeFiles/build.dir/screentext.cpp.o
+[163/466] Building CXX object source/build/src/CMakeFiles/build.dir/smmalloc_tls.cpp.o
+[164/466] Building CXX object source/build/src/CMakeFiles/build.dir/smmalloc_generic.cpp.o
+[165/466] Building CXX object source/build/src/CMakeFiles/build.dir/sdlayer.cpp.o
+[166/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/m32structures.cpp for CXX dependencies
+[167/466] Building CXX object source/build/src/CMakeFiles/build.dir/loguru.cpp.o
+[168/466] Building CXX object source/build/src/CMakeFiles/build.dir/softsurface.cpp.o
+[169/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/network.cpp for CXX dependencies
+[170/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/winbits.cpp for CXX dependencies
+[171/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/menus.cpp for CXX dependencies
+[172/466] Building CXX object source/build/src/CMakeFiles/build.dir/tilepacker.cpp.o
+[173/466] Building C object source/glad/src/CMakeFiles/glad.dir/glad.c.o
+[174/466] Linking C static library source/glad/src/libglad.a
+[175/466] Building CXX object source/build/src/CMakeFiles/build.dir/tiles.cpp.o
+[176/466] Building CXX object source/build/src/CMakeFiles/build.dir/vfs.cpp.o
+[177/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/osdcmds.cpp for CXX dependencies
+[178/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui_impl_opengl3.cpp for CXX dependencies
+[179/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/player.cpp for CXX dependencies
+[180/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui.cpp for CXX dependencies
+[181/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/osdfuncs.cpp for CXX dependencies
+[182/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui_demo.cpp for CXX dependencies
+[183/466] Building CXX object source/build/src/CMakeFiles/build.dir/timer.cpp.o
+[184/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui_draw.cpp for CXX dependencies
+[185/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/premap.cpp for CXX dependencies
+[186/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/rts.cpp for CXX dependencies
+[187/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui_tables.cpp for CXX dependencies
+[188/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/common.c.o
+[189/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/savegame.cpp for CXX dependencies
+[190/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/control.c.o
+[191/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/dataio.c.o
+[192/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui_impl_sdl2.cpp for CXX dependencies
+[193/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/filter.c.o
+[194/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/effects.c.o
+[195/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/format.c.o
+[196/466] Scanning /workspaces/terminx-eduke32/source/imgui/src/imgui_widgets.cpp for CXX dependencies
+[197/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/sbar.cpp for CXX dependencies
+[198/466] Generating CXX dyndep file source/imgui/src/CMakeFiles/imgui.dir/CXX.dd
+[199/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/hio.c.o
+[200/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/itsex.c.o
+[201/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/lfo.c.o
+[202/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/it_load.c.o
+[203/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/load.c.o
+[204/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/sector.cpp for CXX dependencies
+[205/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/screens.cpp for CXX dependencies
+[206/466] Linking CXX static library source/build/src/libbuild.a
+[207/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/load_helpers.c.o
+[208/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/memio.c.o
+[209/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/text.cpp for CXX dependencies
+[210/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/mixer.c.o
+[211/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/mix_all.c.o
+[212/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o
+[213/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/mod_load.c.o
+[214/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/sounds_mapster32.cpp for CXX dependencies
+[215/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/mtm_load.c.o
+[216/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/period.c.o
+[217/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/player.c.o
+[218/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/s3m_load.c.o
+[219/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/sample.c.o
+[220/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/read_event.c.o
+[221/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/scan.c.o
+[222/466] Scanning /workspaces/terminx-eduke32/source/duke3d/src/sounds.cpp for CXX dependencies
+[223/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/smix.c.o
+[224/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/win32.c.o
+[225/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/virtual.c.o
+[226/466] Generating CXX dyndep file source/duke3d/src/CMakeFiles/duke3d.dir/CXX.dd
+[227/466] Building C object source/libxmp-lite/src/CMakeFiles/libxmp-lite.dir/xm_load.c.o
+[228/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui_tables.cpp.o
+[229/466] Scanning /workspaces/terminx-eduke32/source/kenbuild/src/common.cpp for CXX dependencies
+[230/466] Scanning /workspaces/terminx-eduke32/source/kenbuild/src/bstub.cpp for CXX dependencies
+[231/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui_impl_sdl2.cpp.o
+[232/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui_demo.cpp.o
+[233/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui_draw.cpp.o
+[234/466] Scanning /workspaces/terminx-eduke32/source/kenbuild/src/sound_stub.cpp for CXX dependencies
+[235/466] Scanning /workspaces/terminx-eduke32/source/kenbuild/src/config.cpp for CXX dependencies
+[236/466] Scanning /workspaces/terminx-eduke32/source/kenbuild/src/kdmeng.cpp for CXX dependencies
+[237/466] Scanning /workspaces/terminx-eduke32/source/kenbuild/src/game.cpp for CXX dependencies
+[238/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui_widgets.cpp.o
+[239/466] Building CXX object source/imgui/src/CMakeFiles/imgui.dir/imgui.cpp.o
+[240/466] Scanning /workspaces/terminx-eduke32/source/mact/src/animlib.cpp for CXX dependencies
+[241/466] Scanning /workspaces/terminx-eduke32/source/mact/src/keyboard.cpp for CXX dependencies
+[242/466] Scanning /workspaces/terminx-eduke32/source/mact/src/joystick.cpp for CXX dependencies
+[243/466] Scanning /workspaces/terminx-eduke32/source/mact/src/control.cpp for CXX dependencies
+[244/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/cheats.cpp.o
+[245/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/common.cpp.o
+[246/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/gamestructures.cpp.o
+[247/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/anim.cpp.o
+[248/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/actors.cpp.o
+[249/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/dnames.cpp.o
+[250/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/demo.cpp.o
+[251/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/cmdline.cpp.o
+[252/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/gamedef.cpp.o
+/workspaces/terminx-eduke32/source/duke3d/src/gamedef.cpp: In function ‘void C_SetCfgName(const char*)’:
+/workspaces/terminx-eduke32/source/duke3d/src/gamedef.cpp:2482:67: warning: ‘snprintf’ output may be truncated before the last format character [-Wformat-truncation=]
+ 2482 |         Bsnprintf(g_setupFileName, sizeof(g_setupFileName), "%s/%s", g_modDir, temp);
+      |                                                                   ^
+/workspaces/terminx-eduke32/source/duke3d/src/gamedef.cpp:2482:18: note: ‘snprintf’ output 2 or more bytes (assuming 257) into a destination of size 256
+ 2482 |         Bsnprintf(g_setupFileName, sizeof(g_setupFileName), "%s/%s", g_modDir, temp);
+[253/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/gamevars.cpp.o
+[254/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/config.cpp.o
+[255/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/global.cpp.o
+[256/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/gameexec.cpp.o
+/workspaces/terminx-eduke32/source/duke3d/src/gameexec.cpp: In function ‘void VM_Execute(int)’:
+/workspaces/terminx-eduke32/source/duke3d/src/gameexec.cpp:4310:96: warning: ‘%s’ directive output may be truncated writing up to 255 bytes into a region of size 128 [-Wformat-truncation=]
+ 4310 |                                 case STR_USERMAPFILENAME: snprintf(apStrings[q], MAXQUOTELEN, "%s", boardfilename); break;
+      |                                                                                                ^~   ~~~~~~~~~~~~~
+/workspaces/terminx-eduke32/source/duke3d/src/gameexec.cpp:4310:67: note: ‘snprintf’ output between 1 and 256 bytes into a destination of size 128
+ 4310 |                                 case STR_USERMAPFILENAME: snprintf(apStrings[q], MAXQUOTELEN, "%s", boardfilename); break;
+      |                                                           ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/workspaces/terminx-eduke32/source/duke3d/src/gameexec.cpp:4268:78: warning: ‘%s’ directive output may be truncated writing up to 255 bytes into a region of size 128 [-Wformat-truncation=]
+ 4268 |                                         snprintf(apStrings[q], MAXQUOTELEN, "%s", boardfilename);
+      |                                                                              ^~   ~~~~~~~~~~~~~
+/workspaces/terminx-eduke32/source/duke3d/src/gameexec.cpp:4268:49: note: ‘snprintf’ output between 1 and 256 bytes into a destination of size 128
+ 4268 |                                         snprintf(apStrings[q], MAXQUOTELEN, "%s", boardfilename);
+      |                                         ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[257/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/input.cpp.o
+[258/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/grpscan.cpp.o
+[259/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/winbits.cpp.o
+[260/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/game.cpp.o
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp: In function ‘void G_UpdateAppTitle(const char*)’:
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp:5936:53: warning: ‘%s’ directive output may be truncated writing up to 8191 bytes into a region of size 253 [-Wformat-truncation=]
+ 5936 |         Bsnprintf(apptitle, sizeof(apptitle), "%s - %s", g_gameNamePtr, tempbuf);
+      |                                                     ^~                  ~~~~~~~
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp:5936:18: note: ‘snprintf’ output 4 or more bytes (assuming 8195) into a destination of size 256
+ 5936 |         Bsnprintf(apptitle, sizeof(apptitle), "%s - %s", g_gameNamePtr, tempbuf);
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp:5929:57: warning: ‘%s’ directive output may be truncated writing up to 8191 bytes into a region of size 253 [-Wformat-truncation=]
+ 5929 |             Bsnprintf(apptitle, sizeof(apptitle), "%s - %s", name, tempbuf);
+      |                                                         ^~         ~~~~~~~
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp:5929:22: note: ‘snprintf’ output 4 or more bytes (assuming 8195) into a destination of size 256
+ 5929 |             Bsnprintf(apptitle, sizeof(apptitle), "%s - %s", name, tempbuf);
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp:5926:62: warning: ‘%s’ directive output may be truncated writing up to 8191 bytes into a region of size 250 [-Wformat-truncation=]
+ 5926 |             Bsnprintf(apptitle, sizeof(apptitle), "%s - %s - %s", name, g_gameNamePtr, tempbuf);
+      |                                                              ^~                        ~~~~~~~
+/workspaces/terminx-eduke32/source/duke3d/src/game.cpp:5926:22: note: ‘snprintf’ output 7 or more bytes (assuming 8198) into a destination of size 256
+ 5926 |             Bsnprintf(apptitle, sizeof(apptitle), "%s - %s - %s", name, g_gameNamePtr, tempbuf);
+[261/466] Generating CXX dyndep file source/kenbuild/src/CMakeFiles/kenbuild.dir/CXX.dd
+[262/466] Linking CXX static library source/imgui/src/libimgui.a
+[263/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/m32structures.cpp.o
+[264/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/network.cpp.o
+[265/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/osdfuncs.cpp.o
+[266/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/m32common.cpp.o
+[267/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/osdcmds.cpp.o
+[268/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/rts.cpp.o
+[269/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/menus.cpp.o
+[270/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/premap.cpp.o
+[271/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/alloc-aligned.c.o
+[272/466] Linking C static library source/libxmp-lite/src/liblibxmp-lite.a
+[273/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/alloc-posix.c.o
+[274/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/player.cpp.o
+[275/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/alloc.c.o
+[276/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/sbar.cpp.o
+[277/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/bitmap.c.o
+[278/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/heap.c.o
+[279/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/arena.c.o
+[280/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/init.c.o
+[281/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/savegame.cpp.o
+[282/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/libc.c.o
+[283/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/options.c.o
+[284/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/os.c.o
+[285/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/screens.cpp.o
+[286/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/random.c.o
+[287/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/segment-map.c.o
+[288/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/sector.cpp.o
+[289/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/page.c.o
+[290/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/stats.c.o
+[291/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/sounds_mapster32.cpp.o
+[292/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/segment.c.o
+[293/466] Building C object source/mimalloc/src/CMakeFiles/mimalloc.dir/prim/prim.c.o
+[294/466] Linking C static library source/mimalloc/src/libmimalloc.a
+[295/466] Building CXX object source/kenbuild/src/CMakeFiles/kenbuild.dir/bstub.cpp.o
+[296/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/text.cpp.o
+[297/466] Building CXX object source/kenbuild/src/CMakeFiles/kenbuild.dir/common.cpp.o
+[298/466] Building CXX object source/duke3d/src/CMakeFiles/duke3d.dir/sounds.cpp.o
+[299/466] Scanning /workspaces/terminx-eduke32/source/mact/src/scriplib.cpp for CXX dependencies
+[300/466] Generating CXX dyndep file source/mact/src/CMakeFiles/mact.dir/CXX.dd
+[301/466] Linking CXX static library source/duke3d/src/libduke3d.a
+[302/466] Building CXX object source/kenbuild/src/CMakeFiles/kenbuild.dir/config.cpp.o
+[303/466] Building CXX object source/kenbuild/src/CMakeFiles/kenbuild.dir/sound_stub.cpp.o
+[304/466] Scanning /workspaces/terminx-eduke32/source/sw/src/break.cpp for CXX dependencies
+[305/466] Scanning /workspaces/terminx-eduke32/source/sw/src/actor.cpp for CXX dependencies
+[306/466] Scanning /workspaces/terminx-eduke32/source/sw/src/anim.cpp for CXX dependencies
+[307/466] Scanning /workspaces/terminx-eduke32/source/sw/src/brooms.cpp for CXX dependencies
+[308/466] Scanning /workspaces/terminx-eduke32/source/sw/src/border.cpp for CXX dependencies
+[309/466] Scanning /workspaces/terminx-eduke32/source/sw/src/bldscript.cpp for CXX dependencies
+[310/466] Scanning /workspaces/terminx-eduke32/source/sw/src/ai.cpp for CXX dependencies
+[311/466] Scanning /workspaces/terminx-eduke32/source/sw/src/cache.cpp for CXX dependencies
+[312/466] Scanning /workspaces/terminx-eduke32/source/sw/src/common.cpp for CXX dependencies
+[313/466] Building CXX object source/kenbuild/src/CMakeFiles/kenbuild.dir/kdmeng.cpp.o
+[314/466] Scanning /workspaces/terminx-eduke32/source/sw/src/cheats.cpp for CXX dependencies
+[315/466] Scanning /workspaces/terminx-eduke32/source/sw/src/colormap.cpp for CXX dependencies
+[316/466] Scanning /workspaces/terminx-eduke32/source/sw/src/bunny.cpp for CXX dependencies
+[317/466] Building CXX object source/kenbuild/src/CMakeFiles/kenbuild.dir/game.cpp.o
+[318/466] Linking CXX static library source/kenbuild/src/libkenbuild.a
+[319/466] Scanning /workspaces/terminx-eduke32/source/sw/src/copysect.cpp for CXX dependencies
+[320/466] Scanning /workspaces/terminx-eduke32/source/sw/src/console.cpp for CXX dependencies
+[321/466] Scanning /workspaces/terminx-eduke32/source/sw/src/demo.cpp for CXX dependencies
+[322/466] Scanning /workspaces/terminx-eduke32/source/sw/src/draw.cpp for CXX dependencies
+[323/466] Scanning /workspaces/terminx-eduke32/source/sw/src/config.cpp for CXX dependencies
+[324/466] Building CXX object source/mact/src/CMakeFiles/mact.dir/animlib.cpp.o
+[325/466] Scanning /workspaces/terminx-eduke32/source/sw/src/eel.cpp for CXX dependencies
+[326/466] Building CXX object source/mact/src/CMakeFiles/mact.dir/joystick.cpp.o
+[327/466] Building CXX object source/mact/src/CMakeFiles/mact.dir/control.cpp.o
+[328/466] Scanning /workspaces/terminx-eduke32/source/sw/src/goro.cpp for CXX dependencies
+[329/466] Building CXX object source/mact/src/CMakeFiles/mact.dir/scriplib.cpp.o
+[330/466] Scanning /workspaces/terminx-eduke32/source/sw/src/girlninj.cpp for CXX dependencies
+[331/466] Building CXX object source/mact/src/CMakeFiles/mact.dir/keyboard.cpp.o
+[332/466] Scanning /workspaces/terminx-eduke32/source/sw/src/coolg.cpp for CXX dependencies
+[333/466] Scanning /workspaces/terminx-eduke32/source/sw/src/grpscan.cpp for CXX dependencies
+[334/466] Linking CXX static library source/mact/src/libmact.a
+[335/466] Scanning /workspaces/terminx-eduke32/source/sw/src/coolie.cpp for CXX dependencies
+[336/466] Scanning /workspaces/terminx-eduke32/source/sw/src/hornet.cpp for CXX dependencies
+[337/466] Scanning /workspaces/terminx-eduke32/source/sw/src/game.cpp for CXX dependencies
+[338/466] Scanning /workspaces/terminx-eduke32/source/sw/src/interp.cpp for CXX dependencies
+[339/466] Scanning /workspaces/terminx-eduke32/source/sw/src/jnstub.cpp for CXX dependencies
+[340/466] Scanning /workspaces/terminx-eduke32/source/sw/src/inv.cpp for CXX dependencies
+[341/466] Scanning /workspaces/terminx-eduke32/source/sw/src/jsector.cpp for CXX dependencies
+[342/466] Scanning /workspaces/terminx-eduke32/source/sw/src/jplayer.cpp for CXX dependencies
+[343/466] Scanning /workspaces/terminx-eduke32/source/sw/src/jbhlp.cpp for CXX dependencies
+[344/466] Scanning /workspaces/terminx-eduke32/source/sw/src/jweapon.cpp for CXX dependencies
+[345/466] Scanning /workspaces/terminx-eduke32/source/sw/src/mclip.cpp for CXX dependencies
+[346/466] Scanning /workspaces/terminx-eduke32/source/sw/src/interpsh.cpp for CXX dependencies
+[347/466] Scanning /workspaces/terminx-eduke32/source/sw/src/light.cpp for CXX dependencies
+[348/466] Scanning /workspaces/terminx-eduke32/source/sw/src/morph.cpp for CXX dependencies
+[349/466] Scanning /workspaces/terminx-eduke32/source/sw/src/mdastr.cpp for CXX dependencies
+[350/466] Scanning /workspaces/terminx-eduke32/source/sw/src/interpso.cpp for CXX dependencies
+[351/466] Scanning /workspaces/terminx-eduke32/source/sw/src/network.cpp for CXX dependencies
+[352/466] Scanning /workspaces/terminx-eduke32/source/sw/src/lava.cpp for CXX dependencies
+[353/466] Scanning /workspaces/terminx-eduke32/source/sw/src/ninja.cpp for CXX dependencies
+[354/466] Scanning /workspaces/terminx-eduke32/source/sw/src/menus.cpp for CXX dependencies
+[355/466] Scanning /workspaces/terminx-eduke32/source/sw/src/miscactr.cpp for CXX dependencies
+[356/466] Scanning /workspaces/terminx-eduke32/source/sw/src/panel.cpp for CXX dependencies
+[357/466] Scanning /workspaces/terminx-eduke32/source/sw/src/ripper.cpp for CXX dependencies
+[358/466] Scanning /workspaces/terminx-eduke32/source/sw/src/player.cpp for CXX dependencies
+[359/466] Scanning /workspaces/terminx-eduke32/source/sw/src/ripper2.cpp for CXX dependencies
+[360/466] Scanning /workspaces/terminx-eduke32/source/sw/src/rotator.cpp for CXX dependencies
+[361/466] Scanning /workspaces/terminx-eduke32/source/sw/src/rooms.cpp for CXX dependencies
+[362/466] Scanning /workspaces/terminx-eduke32/source/sw/src/rts.cpp for CXX dependencies
+[363/466] Scanning /workspaces/terminx-eduke32/source/sw/src/scrip2.cpp for CXX dependencies
+[364/466] Scanning /workspaces/terminx-eduke32/source/sw/src/saveable.cpp for CXX dependencies
+[365/466] Scanning /workspaces/terminx-eduke32/source/sw/src/save.cpp for CXX dependencies
+[366/466] Scanning /workspaces/terminx-eduke32/source/sw/src/sector.cpp for CXX dependencies
+[367/466] Scanning /workspaces/terminx-eduke32/source/sw/src/setup.cpp for CXX dependencies
+[368/466] Scanning /workspaces/terminx-eduke32/source/sw/src/slidor.cpp for CXX dependencies
+[369/466] Scanning /workspaces/terminx-eduke32/source/sw/src/predict.cpp for CXX dependencies
+[370/466] Scanning /workspaces/terminx-eduke32/source/sw/src/serp.cpp for CXX dependencies
+[371/466] Scanning /workspaces/terminx-eduke32/source/sw/src/quake.cpp for CXX dependencies
+[372/466] Scanning /workspaces/terminx-eduke32/source/sw/src/skel.cpp for CXX dependencies
+[373/466] Scanning /workspaces/terminx-eduke32/source/sw/src/skull.cpp for CXX dependencies
+[374/466] Scanning /workspaces/terminx-eduke32/source/sw/src/sounds.cpp for CXX dependencies
+[375/466] Scanning /workspaces/terminx-eduke32/source/sw/src/sprite.cpp for CXX dependencies
+[376/466] Scanning /workspaces/terminx-eduke32/source/sw/src/spike.cpp for CXX dependencies
+[377/466] Scanning /workspaces/terminx-eduke32/source/sw/src/swconfig.cpp for CXX dependencies
+[378/466] Scanning /workspaces/terminx-eduke32/source/sw/src/sumo.cpp for CXX dependencies
+[379/466] Scanning /workspaces/terminx-eduke32/source/sw/src/sync.cpp for CXX dependencies
+[380/466] Scanning /workspaces/terminx-eduke32/source/sw/src/track.cpp for CXX dependencies
+[381/466] Scanning /workspaces/terminx-eduke32/source/sw/src/text.cpp for CXX dependencies
+[382/466] Scanning /workspaces/terminx-eduke32/source/sw/src/warp.cpp for CXX dependencies
+[383/466] Scanning /workspaces/terminx-eduke32/source/sw/src/wallmove.cpp for CXX dependencies
+[384/466] Scanning /workspaces/terminx-eduke32/source/sw/src/vator.cpp for CXX dependencies
+[385/466] Scanning /workspaces/terminx-eduke32/source/sw/src/zombie.cpp for CXX dependencies
+[386/466] Scanning /workspaces/terminx-eduke32/source/sw/src/vis.cpp for CXX dependencies
+[387/466] Scanning /workspaces/terminx-eduke32/source/sw/src/weapon.cpp for CXX dependencies
+[388/466] Scanning /workspaces/terminx-eduke32/source/sw/src/zilla.cpp for CXX dependencies
+[389/466] Generating CXX dyndep file source/sw/src/CMakeFiles/sw.dir/CXX.dd
+[390/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/cheats.cpp.o
+[391/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/actor.cpp.o
+[392/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/break.cpp.o
+[393/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/brooms.cpp.o
+[394/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/cache.cpp.o
+[395/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/common.cpp.o
+[396/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/anim.cpp.o
+[397/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/bldscript.cpp.o
+[398/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/console.cpp.o
+[399/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/copysect.cpp.o
+[400/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/ai.cpp.o
+[401/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/bunny.cpp.o
+[402/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/colormap.cpp.o
+[403/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/coolg.cpp.o
+[404/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/coolie.cpp.o
+[405/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/demo.cpp.o
+[406/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/border.cpp.o
+[407/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/config.cpp.o
+[408/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/interpsh.cpp.o
+[409/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/girlninj.cpp.o
+[410/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/interp.cpp.o
+[411/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/eel.cpp.o
+[412/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/grpscan.cpp.o
+[413/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/hornet.cpp.o
+[414/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/inv.cpp.o
+[415/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/interpso.cpp.o
+[416/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/goro.cpp.o
+[417/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/jbhlp.cpp.o
+[418/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/draw.cpp.o
+[419/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/jsector.cpp.o
+In file included from /workspaces/terminx-eduke32/source/sw/src/panel.h:32,
+                 from /workspaces/terminx-eduke32/source/sw/src/jsector.cpp:35:
+/workspaces/terminx-eduke32/source/sw/src/game.h: In instantiation of ‘void TerminateWithMsg(int, const char*, const Args& ...) [with Args = {}]’:
+/workspaces/terminx-eduke32/source/sw/src/jsector.cpp:1247:21:   required from here
+ 1247 |     TerminateWithMsg(0,
+      |     ~~~~~~~~~~~~~~~~^~~
+ 1248 |                "ERROR: JS_InitLockouts(), out of range tile number\n"
+      |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 1249 |                "Unrecognizable error!");
+      |                ~~~~~~~~~~~~~~~~~~~~~~~~
+/workspaces/terminx-eduke32/source/sw/src/game.h:2361:14: warning: format not a string literal and no format arguments [-Wformat-security]
+ 2361 |     wm_msgbox(apptitle, fmt, args...);
+      |     ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+[420/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/jplayer.cpp.o
+[421/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/jnstub.cpp.o
+[422/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/lava.cpp.o
+[423/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/jweapon.cpp.o
+[424/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/light.cpp.o
+[425/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/game.cpp.o
+[426/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/mclip.cpp.o
+[427/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/mdastr.cpp.o
+[428/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/morph.cpp.o
+[429/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/miscactr.cpp.o
+[430/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/network.cpp.o
+[431/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/menus.cpp.o
+[432/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/quake.cpp.o
+[433/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/predict.cpp.o
+[434/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/ripper.cpp.o
+[435/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/ninja.cpp.o
+[436/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/panel.cpp.o
+[437/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/ripper2.cpp.o
+[438/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/rooms.cpp.o
+[439/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/player.cpp.o
+[440/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/saveable.cpp.o
+[441/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/rotator.cpp.o
+[442/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/rts.cpp.o
+[443/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/save.cpp.o
+[444/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/scrip2.cpp.o
+[445/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/setup.cpp.o
+[446/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/skel.cpp.o
+[447/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/serp.cpp.o
+[448/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/sector.cpp.o
+[449/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/skull.cpp.o
+[450/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/sumo.cpp.o
+[451/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/swconfig.cpp.o
+[452/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/sounds.cpp.o
+[453/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/spike.cpp.o
+[454/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/sprite.cpp.o
+[455/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/slidor.cpp.o
+[456/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/sync.cpp.o
+[457/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/text.cpp.o
+[458/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/vis.cpp.o
+[459/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/vator.cpp.o
+[460/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/track.cpp.o
+[461/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/wallmove.cpp.o
+[462/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/warp.cpp.o
+[463/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/zilla.cpp.o
+[464/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/zombie.cpp.o
+[465/466] Building CXX object source/sw/src/CMakeFiles/sw.dir/weapon.cpp.o
+[466/466] Linking CXX static library source/sw/src/libsw.a
