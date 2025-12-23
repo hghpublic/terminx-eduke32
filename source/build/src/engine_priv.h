@@ -41,7 +41,17 @@ extern "C" {
 
 extern "C" {
 
-extern uint16_t ATTRIBUTE((used)) sqrtable[4096], ATTRIBUTE((used)) shlookup[4096+256], ATTRIBUTE((used)) sqrtable_old[2048];
+#if !defined(SQRTABLE_USED)
+#define SQRTABLE_USED
+#endif
+#if !defined(SHLOOKUP_USED)
+#define SHLOOKUP_USED
+#endif
+#if !defined(SQRTABLE_OLD_USED)
+#define SQRTABLE_OLD_USED
+#endif
+
+extern uint16_t SQRTABLE_USED sqrtable[4096], SHLOOKUP_USED shlookup[4096+256], SQRTABLE_OLD_USED sqrtable_old[2048];
 
 #if defined(_MSC_VER) && !defined(NOASM)
 

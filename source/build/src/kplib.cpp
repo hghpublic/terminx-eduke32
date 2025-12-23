@@ -54,6 +54,10 @@ static FORCE_INLINE CONSTEXPR int32_t klrotl(int32_t i, int sh) { return (i >> (
 #define ASMNAME(x)
 #endif
 
+#if !defined(GOTPIC_USED)
+#define GOTPIC_USED
+#endif
+
 static intptr_t kp_frameplace;
 static int32_t kp_bytesperline, kp_xres, kp_yres;
 
@@ -105,7 +109,11 @@ kzfilestate kzfs;
 //   pow2mask     128*
 //   dcflagor      64
 
-B_KPLIB_STATIC int32_t ATTRIBUTE((used)) palcol[256] ASMNAME("palcol");
+#if !defined(PALCOL_USED)
+#define PALCOL_USED
+#endif
+
+B_KPLIB_STATIC int32_t PALCOL_USED palcol[256] ASMNAME("palcol");
 static int32_t paleng, bakcol, numhufblocks, zlibcompflags;
 static int8_t kcoltype, filtype, bitdepth;
 
@@ -125,14 +133,20 @@ static int32_t gslidew = 0, gslider = 0, xm, xmn[4], xr0, xr1, xplc, yplc;
 static intptr_t nfplace;
 static int32_t clen[320], cclen[19], bitpos, filt, xsiz, ysiz;
 int32_t xsizbpl, ixsiz, ixoff, iyoff, ixstp, iystp, intlac, nbpl;
-B_KPLIB_STATIC int32_t ATTRIBUTE((used)) trnsrgb ASMNAME("trnsrgb");
+#if !defined(TRNSRGB_USED)
+#define TRNSRGB_USED
+#endif
+B_KPLIB_STATIC int32_t TRNSRGB_USED trnsrgb ASMNAME("trnsrgb");
 static int32_t ccind[19] = {16,17,18,0,8,7,9,6,10,5,11,4,12,3,13,2,14,1,15};
 static int32_t hxbit[59][2], ibuf0[288], nbuf0[32], ibuf1[32], nbuf1[32];
 static const uint8_t *filptr;
 static uint8_t slidebuf[32768], opixbuf0[4], opixbuf1[4];
 static uint8_t pnginited = 0;
 B_KPLIB_STATIC uint8_t olinbuf[131072] ASMNAME("olinbuf"); //WARNING:max kp_xres is: 131072/bpp-1
-B_KPLIB_STATIC int32_t ATTRIBUTE((used)) abstab10[1024] ASMNAME("abstab10");
+#if !defined(ABSTAB10_USED)
+#define ABSTAB10_USED
+#endif
+B_KPLIB_STATIC int32_t ABSTAB10_USED abstab10[1024] ASMNAME("abstab10");
 
 //Variables to speed up dynamic Huffman decoding:
 #define LOGQHUFSIZ0 9
